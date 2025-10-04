@@ -1,0 +1,171 @@
+C:\Users\Distri.Corrales\Downloads\Peliculas_Corregido (1)\Reglas\bin\Debug\net8.0\Reglas.deps.json
+C:\Users\Distri.Corrales\Downloads\Peliculas_Corregido (1)\Reglas\bin\Debug\net8.0\Reglas.dll
+C:\Users\Distri.Corrales\Downloads\Peliculas_Corregido (1)\Reglas\bin\Debug\net8.0\Reglas.pdb
+C:\Users\Distri.Corrales\Downloads\Peliculas_Corregido (1)\Reglas\bin\Debug\net8.0\Abstracciones.dll
+C:\Users\Distri.Corrales\Downloads\Peliculas_Corregido (1)\Reglas\bin\Debug\net8.0\Abstracciones.pdb
+C:\Users\Distri.Corrales\Downloads\Peliculas_Corregido (1)\Reglas\obj\Debug\net8.0\Reglas.csproj.AssemblyReference.cache
+C:\Users\Distri.Corrales\Downloads\Peliculas_Corregido (1)\Reglas\obj\Debug\net8.0\Reglas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Distri.Corrales\Downloads\Peliculas_Corregido (1)\Reglas\obj\Debug\net8.0\Reglas.AssemblyInfoInputs.cache
+C:\Users\Distri.Corrales\Downloads\Peliculas_Corregido (1)\Reglas\obj\Debug\net8.0\Reglas.AssemblyInfo.cs
+C:\Users\Distri.Corrales\Downloads\Peliculas_Corregido (1)\Reglas\obj\Debug\net8.0\Reglas.csproj.CoreCompileInputs.cache
+C:\Users\Distri.Corrales\Downloads\Peliculas_Corregido (1)\Reglas\obj\Debug\net8.0\Reglas.csproj.Up2Date
+C:\Users\Distri.Corrales\Downloads\Peliculas_Corregido (1)\Reglas\obj\Debug\net8.0\Reglas.dll
+C:\Users\Distri.Corrales\Downloads\Peliculas_Corregido (1)\Reglas\obj\Debug\net8.0\refint\Reglas.dll
+C:\Users\Distri.Corrales\Downloads\Peliculas_Corregido (1)\Reglas\obj\Debug\net8.0\Reglas.pdb
+C:\Users\Distri.Corrales\Downloads\Peliculas_Corregido (1)\Reglas\obj\Debug\net8.0\ref\Reglas.dll
+C:\Users\Distri.Corrales\Documents\ZETA\Trabajo #4\Peliculas\Reglas\bin\Debug\net8.0\Reglas.deps.json
+C:\Users\Distri.Corrales\Documents\ZETA\Trabajo #4\Peliculas\Reglas\bin\Debug\net8.0\Reglas.dll
+C:\Users\Distri.Corrales\Documents\ZETA\Trabajo #4\Peliculas\Reglas\bin\Debug\net8.0\Reglas.pdb
+C:\Users\Distri.Corrales\Documents\ZETA\Trabajo #4\Peliculas\Reglas\bin\Debug\net8.0\Abstracciones.dll
+C:\Users\Distri.Corrales\Documents\ZETA\Trabajo #4\Peliculas\Reglas\bin\Debug\net8.0\Abstracciones.pdb
+C:\Users\Distri.Corrales\Documents\ZETA\Trabajo #4\Peliculas\Reglas\obj\Debug\net8.0\Reglas.csproj.AssemblyReference.cache
+C:\Users\Distri.Corrales\Documents\ZETA\Trabajo #4\Peliculas\Reglas\obj\Debug\net8.0\Reglas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Distri.Corrales\Documents\ZETA\Trabajo #4\Peliculas\Reglas\obj\Debug\net8.0\Reglas.AssemblyInfoInputs.cache
+C:\Users\Distri.Corrales\Documents\ZETA\Trabajo #4\Peliculas\Reglas\obj\Debug\net8.0\Reglas.AssemblyInfo.cs
+C:\Users\Distri.Corrales\Documents\ZETA\Trabajo #4\Peliculas\Reglas\obj\Debug\net8.0\Reglas.csproj.CoreCompileInputs.cache
+C:\Users\Distri.Corrales\Documents\ZETA\Trabajo #4\Peliculas\Reglas\obj\Debug\net8.0\Reglas.csproj.Up2Date
+C:\Users\Distri.Corrales\Documents\ZETA\Trabajo #4\Peliculas\Reglas\obj\Debug\net8.0\Reglas.dll
+C:\Users\Distri.Corrales\Documents\ZETA\Trabajo #4\Peliculas\Reglas\obj\Debug\net8.0\refint\Reglas.dll
+C:\Users\Distri.Corrales\Documents\ZETA\Trabajo #4\Peliculas\Reglas\obj\Debug\net8.0\Reglas.pdb
+C:\Users\Distri.Corrales\Documents\ZETA\Trabajo #4\Peliculas\Reglas\obj\Debug\net8.0\ref\Reglas.dll
+C:\Users\Distri.Corrales\Documents\ZETA\Trabajo #4\Peliculas\Peliculas\Reglas\bin\Debug\net8.0\Reglas.deps.json
+C:\Users\Distri.Corrales\Documents\ZETA\Trabajo #4\Peliculas\Peliculas\Reglas\bin\Debug\net8.0\Reglas.dll
+C:\Users\Distri.Corrales\Documents\ZETA\Trabajo #4\Peliculas\Peliculas\Reglas\bin\Debug\net8.0\Reglas.pdb
+C:\Users\Distri.Corrales\Documents\ZETA\Trabajo #4\Peliculas\Peliculas\Reglas\bin\Debug\net8.0\Abstracciones.dll
+C:\Users\Distri.Corrales\Documents\ZETA\Trabajo #4\Peliculas\Peliculas\Reglas\bin\Debug\net8.0\Abstracciones.pdb
+C:\Users\Distri.Corrales\Documents\ZETA\Trabajo #4\Peliculas\Peliculas\Reglas\obj\Debug\net8.0\Reglas.csproj.AssemblyReference.cache
+C:\Users\Distri.Corrales\Documents\ZETA\Trabajo #4\Peliculas\Peliculas\Reglas\obj\Debug\net8.0\Reglas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Distri.Corrales\Documents\ZETA\Trabajo #4\Peliculas\Peliculas\Reglas\obj\Debug\net8.0\Reglas.AssemblyInfoInputs.cache
+C:\Users\Distri.Corrales\Documents\ZETA\Trabajo #4\Peliculas\Peliculas\Reglas\obj\Debug\net8.0\Reglas.AssemblyInfo.cs
+C:\Users\Distri.Corrales\Documents\ZETA\Trabajo #4\Peliculas\Peliculas\Reglas\obj\Debug\net8.0\Reglas.csproj.CoreCompileInputs.cache
+C:\Users\Distri.Corrales\Documents\ZETA\Trabajo #4\Peliculas\Peliculas\Reglas\obj\Debug\net8.0\Reglas.csproj.Up2Date
+C:\Users\Distri.Corrales\Documents\ZETA\Trabajo #4\Peliculas\Peliculas\Reglas\obj\Debug\net8.0\Reglas.dll
+C:\Users\Distri.Corrales\Documents\ZETA\Trabajo #4\Peliculas\Peliculas\Reglas\obj\Debug\net8.0\refint\Reglas.dll
+C:\Users\Distri.Corrales\Documents\ZETA\Trabajo #4\Peliculas\Peliculas\Reglas\obj\Debug\net8.0\Reglas.pdb
+C:\Users\Distri.Corrales\Documents\ZETA\Trabajo #4\Peliculas\Peliculas\Reglas\obj\Debug\net8.0\ref\Reglas.dll
+C:\Users\Distri.Corrales\Documents\ZETA\Trabajo #4\Peliculas\Peliculas\Peliculas\Reglas\bin\Debug\net8.0\Reglas.deps.json
+C:\Users\Distri.Corrales\Documents\ZETA\Trabajo #4\Peliculas\Peliculas\Peliculas\Reglas\bin\Debug\net8.0\Reglas.dll
+C:\Users\Distri.Corrales\Documents\ZETA\Trabajo #4\Peliculas\Peliculas\Peliculas\Reglas\bin\Debug\net8.0\Reglas.pdb
+C:\Users\Distri.Corrales\Documents\ZETA\Trabajo #4\Peliculas\Peliculas\Peliculas\Reglas\bin\Debug\net8.0\Abstracciones.dll
+C:\Users\Distri.Corrales\Documents\ZETA\Trabajo #4\Peliculas\Peliculas\Peliculas\Reglas\bin\Debug\net8.0\Abstracciones.pdb
+C:\Users\Distri.Corrales\Documents\ZETA\Trabajo #4\Peliculas\Peliculas\Peliculas\Reglas\obj\Debug\net8.0\Reglas.csproj.AssemblyReference.cache
+C:\Users\Distri.Corrales\Documents\ZETA\Trabajo #4\Peliculas\Peliculas\Peliculas\Reglas\obj\Debug\net8.0\Reglas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Distri.Corrales\Documents\ZETA\Trabajo #4\Peliculas\Peliculas\Peliculas\Reglas\obj\Debug\net8.0\Reglas.AssemblyInfoInputs.cache
+C:\Users\Distri.Corrales\Documents\ZETA\Trabajo #4\Peliculas\Peliculas\Peliculas\Reglas\obj\Debug\net8.0\Reglas.AssemblyInfo.cs
+C:\Users\Distri.Corrales\Documents\ZETA\Trabajo #4\Peliculas\Peliculas\Peliculas\Reglas\obj\Debug\net8.0\Reglas.csproj.CoreCompileInputs.cache
+C:\Users\Distri.Corrales\Documents\ZETA\Trabajo #4\Peliculas\Peliculas\Peliculas\Reglas\obj\Debug\net8.0\Reglas.csproj.Up2Date
+C:\Users\Distri.Corrales\Documents\ZETA\Trabajo #4\Peliculas\Peliculas\Peliculas\Reglas\obj\Debug\net8.0\Reglas.dll
+C:\Users\Distri.Corrales\Documents\ZETA\Trabajo #4\Peliculas\Peliculas\Peliculas\Reglas\obj\Debug\net8.0\refint\Reglas.dll
+C:\Users\Distri.Corrales\Documents\ZETA\Trabajo #4\Peliculas\Peliculas\Peliculas\Reglas\obj\Debug\net8.0\Reglas.pdb
+C:\Users\Distri.Corrales\Documents\ZETA\Trabajo #4\Peliculas\Peliculas\Peliculas\Reglas\obj\Debug\net8.0\ref\Reglas.dll
+C:\Users\Distri.Corrales\Downloads\Peliculas_Actualizado\Peliculas\Reglas\bin\Debug\net8.0\Reglas.deps.json
+C:\Users\Distri.Corrales\Downloads\Peliculas_Actualizado\Peliculas\Reglas\bin\Debug\net8.0\Reglas.dll
+C:\Users\Distri.Corrales\Downloads\Peliculas_Actualizado\Peliculas\Reglas\bin\Debug\net8.0\Reglas.pdb
+C:\Users\Distri.Corrales\Downloads\Peliculas_Actualizado\Peliculas\Reglas\bin\Debug\net8.0\Abstracciones.dll
+C:\Users\Distri.Corrales\Downloads\Peliculas_Actualizado\Peliculas\Reglas\bin\Debug\net8.0\Abstracciones.pdb
+C:\Users\Distri.Corrales\Downloads\Peliculas_Actualizado\Peliculas\Reglas\obj\Debug\net8.0\Reglas.csproj.AssemblyReference.cache
+C:\Users\Distri.Corrales\Downloads\Peliculas_Actualizado\Peliculas\Reglas\obj\Debug\net8.0\Reglas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Distri.Corrales\Downloads\Peliculas_Actualizado\Peliculas\Reglas\obj\Debug\net8.0\Reglas.AssemblyInfoInputs.cache
+C:\Users\Distri.Corrales\Downloads\Peliculas_Actualizado\Peliculas\Reglas\obj\Debug\net8.0\Reglas.AssemblyInfo.cs
+C:\Users\Distri.Corrales\Downloads\Peliculas_Actualizado\Peliculas\Reglas\obj\Debug\net8.0\Reglas.csproj.CoreCompileInputs.cache
+C:\Users\Distri.Corrales\Downloads\Peliculas_Actualizado\Peliculas\Reglas\obj\Debug\net8.0\Reglas.csproj.Up2Date
+C:\Users\Distri.Corrales\Downloads\Peliculas_Actualizado\Peliculas\Reglas\obj\Debug\net8.0\Reglas.dll
+C:\Users\Distri.Corrales\Downloads\Peliculas_Actualizado\Peliculas\Reglas\obj\Debug\net8.0\refint\Reglas.dll
+C:\Users\Distri.Corrales\Downloads\Peliculas_Actualizado\Peliculas\Reglas\obj\Debug\net8.0\Reglas.pdb
+C:\Users\Distri.Corrales\Downloads\Peliculas_Actualizado\Peliculas\Reglas\obj\Debug\net8.0\ref\Reglas.dll
+C:\Users\Distri.Corrales\Documents\ZETA\Trabajo #4\Peliculas_Actualizado\Peliculas\Reglas\bin\Debug\net8.0\Reglas.deps.json
+C:\Users\Distri.Corrales\Documents\ZETA\Trabajo #4\Peliculas_Actualizado\Peliculas\Reglas\bin\Debug\net8.0\Reglas.dll
+C:\Users\Distri.Corrales\Documents\ZETA\Trabajo #4\Peliculas_Actualizado\Peliculas\Reglas\bin\Debug\net8.0\Reglas.pdb
+C:\Users\Distri.Corrales\Documents\ZETA\Trabajo #4\Peliculas_Actualizado\Peliculas\Reglas\bin\Debug\net8.0\Abstracciones.dll
+C:\Users\Distri.Corrales\Documents\ZETA\Trabajo #4\Peliculas_Actualizado\Peliculas\Reglas\bin\Debug\net8.0\Abstracciones.pdb
+C:\Users\Distri.Corrales\Documents\ZETA\Trabajo #4\Peliculas_Actualizado\Peliculas\Reglas\obj\Debug\net8.0\Reglas.csproj.AssemblyReference.cache
+C:\Users\Distri.Corrales\Documents\ZETA\Trabajo #4\Peliculas_Actualizado\Peliculas\Reglas\obj\Debug\net8.0\Reglas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Distri.Corrales\Documents\ZETA\Trabajo #4\Peliculas_Actualizado\Peliculas\Reglas\obj\Debug\net8.0\Reglas.AssemblyInfoInputs.cache
+C:\Users\Distri.Corrales\Documents\ZETA\Trabajo #4\Peliculas_Actualizado\Peliculas\Reglas\obj\Debug\net8.0\Reglas.AssemblyInfo.cs
+C:\Users\Distri.Corrales\Documents\ZETA\Trabajo #4\Peliculas_Actualizado\Peliculas\Reglas\obj\Debug\net8.0\Reglas.csproj.CoreCompileInputs.cache
+C:\Users\Distri.Corrales\Documents\ZETA\Trabajo #4\Peliculas_Actualizado\Peliculas\Reglas\obj\Debug\net8.0\Reglas.csproj.Up2Date
+C:\Users\Distri.Corrales\Documents\ZETA\Trabajo #4\Peliculas_Actualizado\Peliculas\Reglas\obj\Debug\net8.0\Reglas.dll
+C:\Users\Distri.Corrales\Documents\ZETA\Trabajo #4\Peliculas_Actualizado\Peliculas\Reglas\obj\Debug\net8.0\refint\Reglas.dll
+C:\Users\Distri.Corrales\Documents\ZETA\Trabajo #4\Peliculas_Actualizado\Peliculas\Reglas\obj\Debug\net8.0\Reglas.pdb
+C:\Users\Distri.Corrales\Documents\ZETA\Trabajo #4\Peliculas_Actualizado\Peliculas\Reglas\obj\Debug\net8.0\ref\Reglas.dll
+C:\Users\Distri.Corrales\Videos\Peliculas\Peliculas\Reglas\bin\Debug\net8.0\Reglas.deps.json
+C:\Users\Distri.Corrales\Videos\Peliculas\Peliculas\Reglas\bin\Debug\net8.0\Reglas.dll
+C:\Users\Distri.Corrales\Videos\Peliculas\Peliculas\Reglas\bin\Debug\net8.0\Reglas.pdb
+C:\Users\Distri.Corrales\Videos\Peliculas\Peliculas\Reglas\bin\Debug\net8.0\Abstracciones.dll
+C:\Users\Distri.Corrales\Videos\Peliculas\Peliculas\Reglas\bin\Debug\net8.0\Abstracciones.pdb
+C:\Users\Distri.Corrales\Videos\Peliculas\Peliculas\Reglas\obj\Debug\net8.0\Reglas.csproj.AssemblyReference.cache
+C:\Users\Distri.Corrales\Videos\Peliculas\Peliculas\Reglas\obj\Debug\net8.0\Reglas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Distri.Corrales\Videos\Peliculas\Peliculas\Reglas\obj\Debug\net8.0\Reglas.AssemblyInfoInputs.cache
+C:\Users\Distri.Corrales\Videos\Peliculas\Peliculas\Reglas\obj\Debug\net8.0\Reglas.AssemblyInfo.cs
+C:\Users\Distri.Corrales\Videos\Peliculas\Peliculas\Reglas\obj\Debug\net8.0\Reglas.csproj.CoreCompileInputs.cache
+C:\Users\Distri.Corrales\Videos\Peliculas\Peliculas\Reglas\obj\Debug\net8.0\Reglas.csproj.Up2Date
+C:\Users\Distri.Corrales\Videos\Peliculas\Peliculas\Reglas\obj\Debug\net8.0\Reglas.dll
+C:\Users\Distri.Corrales\Videos\Peliculas\Peliculas\Reglas\obj\Debug\net8.0\refint\Reglas.dll
+C:\Users\Distri.Corrales\Videos\Peliculas\Peliculas\Reglas\obj\Debug\net8.0\Reglas.pdb
+C:\Users\Distri.Corrales\Videos\Peliculas\Peliculas\Reglas\obj\Debug\net8.0\ref\Reglas.dll
+C:\Users\aranb\Downloads\Peliculas Completa\Peliculas\Reglas\bin\Debug\net8.0\Reglas.deps.json
+C:\Users\aranb\Downloads\Peliculas Completa\Peliculas\Reglas\bin\Debug\net8.0\Reglas.dll
+C:\Users\aranb\Downloads\Peliculas Completa\Peliculas\Reglas\bin\Debug\net8.0\Reglas.pdb
+C:\Users\aranb\Downloads\Peliculas Completa\Peliculas\Reglas\bin\Debug\net8.0\Abstracciones.dll
+C:\Users\aranb\Downloads\Peliculas Completa\Peliculas\Reglas\bin\Debug\net8.0\Abstracciones.pdb
+C:\Users\aranb\Downloads\Peliculas Completa\Peliculas\Reglas\obj\Debug\net8.0\Reglas.csproj.AssemblyReference.cache
+C:\Users\aranb\Downloads\Peliculas Completa\Peliculas\Reglas\obj\Debug\net8.0\Reglas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aranb\Downloads\Peliculas Completa\Peliculas\Reglas\obj\Debug\net8.0\Reglas.AssemblyInfoInputs.cache
+C:\Users\aranb\Downloads\Peliculas Completa\Peliculas\Reglas\obj\Debug\net8.0\Reglas.AssemblyInfo.cs
+C:\Users\aranb\Downloads\Peliculas Completa\Peliculas\Reglas\obj\Debug\net8.0\Reglas.csproj.CoreCompileInputs.cache
+C:\Users\aranb\Downloads\Peliculas Completa\Peliculas\Reglas\obj\Debug\net8.0\Reglas.csproj.CopyComplete
+C:\Users\aranb\Downloads\Peliculas Completa\Peliculas\Reglas\obj\Debug\net8.0\Reglas.dll
+C:\Users\aranb\Downloads\Peliculas Completa\Peliculas\Reglas\obj\Debug\net8.0\refint\Reglas.dll
+C:\Users\aranb\Downloads\Peliculas Completa\Peliculas\Reglas\obj\Debug\net8.0\Reglas.pdb
+C:\Users\aranb\Downloads\Peliculas Completa\Peliculas\Reglas\obj\Debug\net8.0\ref\Reglas.dll
+C:\Users\aranb\Source\Repos\SC-701\caso-pr-ctico-2-grupobraynerpaw\Peliculas\Reglas\bin\Debug\net8.0\Reglas.deps.json
+C:\Users\aranb\Source\Repos\SC-701\caso-pr-ctico-2-grupobraynerpaw\Peliculas\Reglas\bin\Debug\net8.0\Reglas.dll
+C:\Users\aranb\Source\Repos\SC-701\caso-pr-ctico-2-grupobraynerpaw\Peliculas\Reglas\bin\Debug\net8.0\Reglas.pdb
+C:\Users\aranb\Source\Repos\SC-701\caso-pr-ctico-2-grupobraynerpaw\Peliculas\Reglas\bin\Debug\net8.0\Abstracciones.dll
+C:\Users\aranb\Source\Repos\SC-701\caso-pr-ctico-2-grupobraynerpaw\Peliculas\Reglas\bin\Debug\net8.0\Abstracciones.pdb
+C:\Users\aranb\Source\Repos\SC-701\caso-pr-ctico-2-grupobraynerpaw\Peliculas\Reglas\obj\Debug\net8.0\Reglas.csproj.AssemblyReference.cache
+C:\Users\aranb\Source\Repos\SC-701\caso-pr-ctico-2-grupobraynerpaw\Peliculas\Reglas\obj\Debug\net8.0\Reglas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aranb\Source\Repos\SC-701\caso-pr-ctico-2-grupobraynerpaw\Peliculas\Reglas\obj\Debug\net8.0\Reglas.AssemblyInfoInputs.cache
+C:\Users\aranb\Source\Repos\SC-701\caso-pr-ctico-2-grupobraynerpaw\Peliculas\Reglas\obj\Debug\net8.0\Reglas.AssemblyInfo.cs
+C:\Users\aranb\Source\Repos\SC-701\caso-pr-ctico-2-grupobraynerpaw\Peliculas\Reglas\obj\Debug\net8.0\Reglas.csproj.CoreCompileInputs.cache
+C:\Users\aranb\Source\Repos\SC-701\caso-pr-ctico-2-grupobraynerpaw\Peliculas\Reglas\obj\Debug\net8.0\Reglas.sourcelink.json
+C:\Users\aranb\Source\Repos\SC-701\caso-pr-ctico-2-grupobraynerpaw\Peliculas\Reglas\obj\Debug\net8.0\Reglas.csproj.CopyComplete
+C:\Users\aranb\Source\Repos\SC-701\caso-pr-ctico-2-grupobraynerpaw\Peliculas\Reglas\obj\Debug\net8.0\Reglas.dll
+C:\Users\aranb\Source\Repos\SC-701\caso-pr-ctico-2-grupobraynerpaw\Peliculas\Reglas\obj\Debug\net8.0\refint\Reglas.dll
+C:\Users\aranb\Source\Repos\SC-701\caso-pr-ctico-2-grupobraynerpaw\Peliculas\Reglas\obj\Debug\net8.0\Reglas.pdb
+C:\Users\aranb\Source\Repos\SC-701\caso-pr-ctico-2-grupobraynerpaw\Peliculas\Reglas\obj\Debug\net8.0\ref\Reglas.dll
+C:\Users\aranb\source\repos\SC-701\caso-pr-ctico-2-grupobraynerpaw\SC-701-PAG4-K\Peliculas\Reglas\bin\Debug\net8.0\Reglas.deps.json
+C:\Users\aranb\source\repos\SC-701\caso-pr-ctico-2-grupobraynerpaw\SC-701-PAG4-K\Peliculas\Reglas\bin\Debug\net8.0\Reglas.dll
+C:\Users\aranb\source\repos\SC-701\caso-pr-ctico-2-grupobraynerpaw\SC-701-PAG4-K\Peliculas\Reglas\bin\Debug\net8.0\Reglas.pdb
+C:\Users\aranb\source\repos\SC-701\caso-pr-ctico-2-grupobraynerpaw\SC-701-PAG4-K\Peliculas\Reglas\bin\Debug\net8.0\Abstracciones.dll
+C:\Users\aranb\source\repos\SC-701\caso-pr-ctico-2-grupobraynerpaw\SC-701-PAG4-K\Peliculas\Reglas\bin\Debug\net8.0\Abstracciones.pdb
+C:\Users\aranb\source\repos\SC-701\caso-pr-ctico-2-grupobraynerpaw\SC-701-PAG4-K\Peliculas\Reglas\obj\Debug\net8.0\Reglas.csproj.AssemblyReference.cache
+C:\Users\aranb\source\repos\SC-701\caso-pr-ctico-2-grupobraynerpaw\SC-701-PAG4-K\Peliculas\Reglas\obj\Debug\net8.0\Reglas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aranb\source\repos\SC-701\caso-pr-ctico-2-grupobraynerpaw\SC-701-PAG4-K\Peliculas\Reglas\obj\Debug\net8.0\Reglas.AssemblyInfoInputs.cache
+C:\Users\aranb\source\repos\SC-701\caso-pr-ctico-2-grupobraynerpaw\SC-701-PAG4-K\Peliculas\Reglas\obj\Debug\net8.0\Reglas.AssemblyInfo.cs
+C:\Users\aranb\source\repos\SC-701\caso-pr-ctico-2-grupobraynerpaw\SC-701-PAG4-K\Peliculas\Reglas\obj\Debug\net8.0\Reglas.csproj.CoreCompileInputs.cache
+C:\Users\aranb\source\repos\SC-701\caso-pr-ctico-2-grupobraynerpaw\SC-701-PAG4-K\Peliculas\Reglas\obj\Debug\net8.0\Reglas.sourcelink.json
+C:\Users\aranb\source\repos\SC-701\caso-pr-ctico-2-grupobraynerpaw\SC-701-PAG4-K\Peliculas\Reglas\obj\Debug\net8.0\Reglas.csproj.CopyComplete
+C:\Users\aranb\source\repos\SC-701\caso-pr-ctico-2-grupobraynerpaw\SC-701-PAG4-K\Peliculas\Reglas\obj\Debug\net8.0\Reglas.dll
+C:\Users\aranb\source\repos\SC-701\caso-pr-ctico-2-grupobraynerpaw\SC-701-PAG4-K\Peliculas\Reglas\obj\Debug\net8.0\refint\Reglas.dll
+C:\Users\aranb\source\repos\SC-701\caso-pr-ctico-2-grupobraynerpaw\SC-701-PAG4-K\Peliculas\Reglas\obj\Debug\net8.0\Reglas.pdb
+C:\Users\aranb\source\repos\SC-701\caso-pr-ctico-2-grupobraynerpaw\SC-701-PAG4-K\Peliculas\Reglas\obj\Debug\net8.0\ref\Reglas.dll
+C:\Users\aranb\source\repos\SC-701\caso-pr-ctico-2-grupobraynerpaw\SC-701-PAG4-K\Peliculas\Reglas\bin\Debug\net8.0\Reglas.runtimeconfig.json
+C:\Users\aranb\source\repos\SC-701\caso-pr-ctico-2-grupobraynerpaw\SC-701-PAG4-K\Peliculas\Reglas\obj\Debug\net8.0\Reglas.genruntimeconfig.cache
+C:\Users\aj199\Videos\Progra Web Avanzada\PROYECTO\final\SC-701-PAG4-K v2\SC-701-PAG4-K\Peliculas\Reglas\bin\Debug\net8.0\Reglas.deps.json
+C:\Users\aj199\Videos\Progra Web Avanzada\PROYECTO\final\SC-701-PAG4-K v2\SC-701-PAG4-K\Peliculas\Reglas\bin\Debug\net8.0\Reglas.runtimeconfig.json
+C:\Users\aj199\Videos\Progra Web Avanzada\PROYECTO\final\SC-701-PAG4-K v2\SC-701-PAG4-K\Peliculas\Reglas\bin\Debug\net8.0\Reglas.dll
+C:\Users\aj199\Videos\Progra Web Avanzada\PROYECTO\final\SC-701-PAG4-K v2\SC-701-PAG4-K\Peliculas\Reglas\bin\Debug\net8.0\Reglas.pdb
+C:\Users\aj199\Videos\Progra Web Avanzada\PROYECTO\final\SC-701-PAG4-K v2\SC-701-PAG4-K\Peliculas\Reglas\bin\Debug\net8.0\Abstracciones.dll
+C:\Users\aj199\Videos\Progra Web Avanzada\PROYECTO\final\SC-701-PAG4-K v2\SC-701-PAG4-K\Peliculas\Reglas\bin\Debug\net8.0\Abstracciones.pdb
+C:\Users\aj199\Videos\Progra Web Avanzada\PROYECTO\final\SC-701-PAG4-K v2\SC-701-PAG4-K\Peliculas\Reglas\obj\Debug\net8.0\Reglas.csproj.AssemblyReference.cache
+C:\Users\aj199\Videos\Progra Web Avanzada\PROYECTO\final\SC-701-PAG4-K v2\SC-701-PAG4-K\Peliculas\Reglas\obj\Debug\net8.0\Reglas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aj199\Videos\Progra Web Avanzada\PROYECTO\final\SC-701-PAG4-K v2\SC-701-PAG4-K\Peliculas\Reglas\obj\Debug\net8.0\Reglas.AssemblyInfoInputs.cache
+C:\Users\aj199\Videos\Progra Web Avanzada\PROYECTO\final\SC-701-PAG4-K v2\SC-701-PAG4-K\Peliculas\Reglas\obj\Debug\net8.0\Reglas.AssemblyInfo.cs
+C:\Users\aj199\Videos\Progra Web Avanzada\PROYECTO\final\SC-701-PAG4-K v2\SC-701-PAG4-K\Peliculas\Reglas\obj\Debug\net8.0\Reglas.csproj.CoreCompileInputs.cache
+C:\Users\aj199\Videos\Progra Web Avanzada\PROYECTO\final\SC-701-PAG4-K v2\SC-701-PAG4-K\Peliculas\Reglas\obj\Debug\net8.0\Reglas.csproj.Up2Date
+C:\Users\aj199\Videos\Progra Web Avanzada\PROYECTO\final\SC-701-PAG4-K v2\SC-701-PAG4-K\Peliculas\Reglas\obj\Debug\net8.0\Reglas.dll
+C:\Users\aj199\Videos\Progra Web Avanzada\PROYECTO\final\SC-701-PAG4-K v2\SC-701-PAG4-K\Peliculas\Reglas\obj\Debug\net8.0\refint\Reglas.dll
+C:\Users\aj199\Videos\Progra Web Avanzada\PROYECTO\final\SC-701-PAG4-K v2\SC-701-PAG4-K\Peliculas\Reglas\obj\Debug\net8.0\Reglas.pdb
+C:\Users\aj199\Videos\Progra Web Avanzada\PROYECTO\final\SC-701-PAG4-K v2\SC-701-PAG4-K\Peliculas\Reglas\obj\Debug\net8.0\Reglas.genruntimeconfig.cache
+C:\Users\aj199\Videos\Progra Web Avanzada\PROYECTO\final\SC-701-PAG4-K v2\SC-701-PAG4-K\Peliculas\Reglas\obj\Debug\net8.0\ref\Reglas.dll

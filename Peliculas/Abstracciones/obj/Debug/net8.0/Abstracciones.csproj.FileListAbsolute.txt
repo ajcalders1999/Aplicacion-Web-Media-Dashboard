@@ -1,0 +1,162 @@
+C:\Users\Distri.Corrales\Downloads\Peliculas_Con_Flujo\Peliculas_RepositorioDapper_Fixed\Peliculas_Fix_ConnectionString\Abstracciones\bin\Debug\net8.0\Abstracciones.deps.json
+C:\Users\Distri.Corrales\Downloads\Peliculas_Con_Flujo\Peliculas_RepositorioDapper_Fixed\Peliculas_Fix_ConnectionString\Abstracciones\bin\Debug\net8.0\Abstracciones.dll
+C:\Users\Distri.Corrales\Downloads\Peliculas_Con_Flujo\Peliculas_RepositorioDapper_Fixed\Peliculas_Fix_ConnectionString\Abstracciones\bin\Debug\net8.0\Abstracciones.pdb
+C:\Users\Distri.Corrales\Downloads\Peliculas_Con_Flujo\Peliculas_RepositorioDapper_Fixed\Peliculas_Fix_ConnectionString\Abstracciones\obj\Debug\net8.0\Abstracciones.csproj.AssemblyReference.cache
+C:\Users\Distri.Corrales\Downloads\Peliculas_Con_Flujo\Peliculas_RepositorioDapper_Fixed\Peliculas_Fix_ConnectionString\Abstracciones\obj\Debug\net8.0\Abstracciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Distri.Corrales\Downloads\Peliculas_Con_Flujo\Peliculas_RepositorioDapper_Fixed\Peliculas_Fix_ConnectionString\Abstracciones\obj\Debug\net8.0\Abstracciones.AssemblyInfoInputs.cache
+C:\Users\Distri.Corrales\Downloads\Peliculas_Con_Flujo\Peliculas_RepositorioDapper_Fixed\Peliculas_Fix_ConnectionString\Abstracciones\obj\Debug\net8.0\Abstracciones.AssemblyInfo.cs
+C:\Users\Distri.Corrales\Downloads\Peliculas_Con_Flujo\Peliculas_RepositorioDapper_Fixed\Peliculas_Fix_ConnectionString\Abstracciones\obj\Debug\net8.0\Abstracciones.csproj.CoreCompileInputs.cache
+C:\Users\Distri.Corrales\Downloads\Peliculas_Con_Flujo\Peliculas_RepositorioDapper_Fixed\Peliculas_Fix_ConnectionString\Abstracciones\obj\Debug\net8.0\Abstracciones.dll
+C:\Users\Distri.Corrales\Downloads\Peliculas_Con_Flujo\Peliculas_RepositorioDapper_Fixed\Peliculas_Fix_ConnectionString\Abstracciones\obj\Debug\net8.0\refint\Abstracciones.dll
+C:\Users\Distri.Corrales\Downloads\Peliculas_Con_Flujo\Peliculas_RepositorioDapper_Fixed\Peliculas_Fix_ConnectionString\Abstracciones\obj\Debug\net8.0\Abstracciones.pdb
+C:\Users\Distri.Corrales\Downloads\Peliculas_Con_Flujo\Peliculas_RepositorioDapper_Fixed\Peliculas_Fix_ConnectionString\Abstracciones\obj\Debug\net8.0\ref\Abstracciones.dll
+C:\Users\Distri.Corrales\Desktop\Peliculas\Abstracciones\bin\Debug\net8.0\Abstracciones.deps.json
+C:\Users\Distri.Corrales\Desktop\Peliculas\Abstracciones\bin\Debug\net8.0\Abstracciones.dll
+C:\Users\Distri.Corrales\Desktop\Peliculas\Abstracciones\bin\Debug\net8.0\Abstracciones.pdb
+C:\Users\Distri.Corrales\Desktop\Peliculas\Abstracciones\obj\Debug\net8.0\Abstracciones.csproj.AssemblyReference.cache
+C:\Users\Distri.Corrales\Desktop\Peliculas\Abstracciones\obj\Debug\net8.0\Abstracciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Distri.Corrales\Desktop\Peliculas\Abstracciones\obj\Debug\net8.0\Abstracciones.AssemblyInfoInputs.cache
+C:\Users\Distri.Corrales\Desktop\Peliculas\Abstracciones\obj\Debug\net8.0\Abstracciones.AssemblyInfo.cs
+C:\Users\Distri.Corrales\Desktop\Peliculas\Abstracciones\obj\Debug\net8.0\Abstracciones.csproj.CoreCompileInputs.cache
+C:\Users\Distri.Corrales\Desktop\Peliculas\Abstracciones\obj\Debug\net8.0\Abstracciones.dll
+C:\Users\Distri.Corrales\Desktop\Peliculas\Abstracciones\obj\Debug\net8.0\refint\Abstracciones.dll
+C:\Users\Distri.Corrales\Desktop\Peliculas\Abstracciones\obj\Debug\net8.0\Abstracciones.pdb
+C:\Users\Distri.Corrales\Desktop\Peliculas\Abstracciones\obj\Debug\net8.0\ref\Abstracciones.dll
+C:\Users\Distri.Corrales\Downloads\Peliculas_Corregido (1)\Abstracciones\bin\Debug\net8.0\Abstracciones.deps.json
+C:\Users\Distri.Corrales\Downloads\Peliculas_Corregido (1)\Abstracciones\bin\Debug\net8.0\Abstracciones.dll
+C:\Users\Distri.Corrales\Downloads\Peliculas_Corregido (1)\Abstracciones\bin\Debug\net8.0\Abstracciones.pdb
+C:\Users\Distri.Corrales\Downloads\Peliculas_Corregido (1)\Abstracciones\obj\Debug\net8.0\Abstracciones.csproj.AssemblyReference.cache
+C:\Users\Distri.Corrales\Downloads\Peliculas_Corregido (1)\Abstracciones\obj\Debug\net8.0\Abstracciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Distri.Corrales\Downloads\Peliculas_Corregido (1)\Abstracciones\obj\Debug\net8.0\Abstracciones.AssemblyInfoInputs.cache
+C:\Users\Distri.Corrales\Downloads\Peliculas_Corregido (1)\Abstracciones\obj\Debug\net8.0\Abstracciones.AssemblyInfo.cs
+C:\Users\Distri.Corrales\Downloads\Peliculas_Corregido (1)\Abstracciones\obj\Debug\net8.0\Abstracciones.csproj.CoreCompileInputs.cache
+C:\Users\Distri.Corrales\Downloads\Peliculas_Corregido (1)\Abstracciones\obj\Debug\net8.0\Abstracciones.dll
+C:\Users\Distri.Corrales\Downloads\Peliculas_Corregido (1)\Abstracciones\obj\Debug\net8.0\refint\Abstracciones.dll
+C:\Users\Distri.Corrales\Downloads\Peliculas_Corregido (1)\Abstracciones\obj\Debug\net8.0\Abstracciones.pdb
+C:\Users\Distri.Corrales\Downloads\Peliculas_Corregido (1)\Abstracciones\obj\Debug\net8.0\ref\Abstracciones.dll
+C:\Users\Distri.Corrales\Documents\ZETA\Trabajo #4\Peliculas\Abstracciones\bin\Debug\net8.0\Abstracciones.deps.json
+C:\Users\Distri.Corrales\Documents\ZETA\Trabajo #4\Peliculas\Abstracciones\bin\Debug\net8.0\Abstracciones.dll
+C:\Users\Distri.Corrales\Documents\ZETA\Trabajo #4\Peliculas\Abstracciones\bin\Debug\net8.0\Abstracciones.pdb
+C:\Users\Distri.Corrales\Documents\ZETA\Trabajo #4\Peliculas\Abstracciones\obj\Debug\net8.0\Abstracciones.csproj.AssemblyReference.cache
+C:\Users\Distri.Corrales\Documents\ZETA\Trabajo #4\Peliculas\Abstracciones\obj\Debug\net8.0\Abstracciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Distri.Corrales\Documents\ZETA\Trabajo #4\Peliculas\Abstracciones\obj\Debug\net8.0\Abstracciones.AssemblyInfoInputs.cache
+C:\Users\Distri.Corrales\Documents\ZETA\Trabajo #4\Peliculas\Abstracciones\obj\Debug\net8.0\Abstracciones.AssemblyInfo.cs
+C:\Users\Distri.Corrales\Documents\ZETA\Trabajo #4\Peliculas\Abstracciones\obj\Debug\net8.0\Abstracciones.csproj.CoreCompileInputs.cache
+C:\Users\Distri.Corrales\Documents\ZETA\Trabajo #4\Peliculas\Abstracciones\obj\Debug\net8.0\Abstracciones.dll
+C:\Users\Distri.Corrales\Documents\ZETA\Trabajo #4\Peliculas\Abstracciones\obj\Debug\net8.0\refint\Abstracciones.dll
+C:\Users\Distri.Corrales\Documents\ZETA\Trabajo #4\Peliculas\Abstracciones\obj\Debug\net8.0\Abstracciones.pdb
+C:\Users\Distri.Corrales\Documents\ZETA\Trabajo #4\Peliculas\Abstracciones\obj\Debug\net8.0\ref\Abstracciones.dll
+C:\Users\Distri.Corrales\Documents\ZETA\Trabajo #4\Peliculas\Peliculas\Abstracciones\bin\Debug\net8.0\Abstracciones.deps.json
+C:\Users\Distri.Corrales\Documents\ZETA\Trabajo #4\Peliculas\Peliculas\Abstracciones\bin\Debug\net8.0\Abstracciones.dll
+C:\Users\Distri.Corrales\Documents\ZETA\Trabajo #4\Peliculas\Peliculas\Abstracciones\bin\Debug\net8.0\Abstracciones.pdb
+C:\Users\Distri.Corrales\Documents\ZETA\Trabajo #4\Peliculas\Peliculas\Abstracciones\obj\Debug\net8.0\Abstracciones.csproj.AssemblyReference.cache
+C:\Users\Distri.Corrales\Documents\ZETA\Trabajo #4\Peliculas\Peliculas\Abstracciones\obj\Debug\net8.0\Abstracciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Distri.Corrales\Documents\ZETA\Trabajo #4\Peliculas\Peliculas\Abstracciones\obj\Debug\net8.0\Abstracciones.AssemblyInfoInputs.cache
+C:\Users\Distri.Corrales\Documents\ZETA\Trabajo #4\Peliculas\Peliculas\Abstracciones\obj\Debug\net8.0\Abstracciones.AssemblyInfo.cs
+C:\Users\Distri.Corrales\Documents\ZETA\Trabajo #4\Peliculas\Peliculas\Abstracciones\obj\Debug\net8.0\Abstracciones.csproj.CoreCompileInputs.cache
+C:\Users\Distri.Corrales\Documents\ZETA\Trabajo #4\Peliculas\Peliculas\Abstracciones\obj\Debug\net8.0\Abstracciones.dll
+C:\Users\Distri.Corrales\Documents\ZETA\Trabajo #4\Peliculas\Peliculas\Abstracciones\obj\Debug\net8.0\refint\Abstracciones.dll
+C:\Users\Distri.Corrales\Documents\ZETA\Trabajo #4\Peliculas\Peliculas\Abstracciones\obj\Debug\net8.0\Abstracciones.pdb
+C:\Users\Distri.Corrales\Documents\ZETA\Trabajo #4\Peliculas\Peliculas\Abstracciones\obj\Debug\net8.0\ref\Abstracciones.dll
+C:\Users\Distri.Corrales\Documents\ZETA\Trabajo #4\Peliculas\Peliculas\Peliculas\Abstracciones\bin\Debug\net8.0\Abstracciones.deps.json
+C:\Users\Distri.Corrales\Documents\ZETA\Trabajo #4\Peliculas\Peliculas\Peliculas\Abstracciones\bin\Debug\net8.0\Abstracciones.dll
+C:\Users\Distri.Corrales\Documents\ZETA\Trabajo #4\Peliculas\Peliculas\Peliculas\Abstracciones\bin\Debug\net8.0\Abstracciones.pdb
+C:\Users\Distri.Corrales\Documents\ZETA\Trabajo #4\Peliculas\Peliculas\Peliculas\Abstracciones\obj\Debug\net8.0\Abstracciones.csproj.AssemblyReference.cache
+C:\Users\Distri.Corrales\Documents\ZETA\Trabajo #4\Peliculas\Peliculas\Peliculas\Abstracciones\obj\Debug\net8.0\Abstracciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Distri.Corrales\Documents\ZETA\Trabajo #4\Peliculas\Peliculas\Peliculas\Abstracciones\obj\Debug\net8.0\Abstracciones.AssemblyInfoInputs.cache
+C:\Users\Distri.Corrales\Documents\ZETA\Trabajo #4\Peliculas\Peliculas\Peliculas\Abstracciones\obj\Debug\net8.0\Abstracciones.AssemblyInfo.cs
+C:\Users\Distri.Corrales\Documents\ZETA\Trabajo #4\Peliculas\Peliculas\Peliculas\Abstracciones\obj\Debug\net8.0\Abstracciones.csproj.CoreCompileInputs.cache
+C:\Users\Distri.Corrales\Documents\ZETA\Trabajo #4\Peliculas\Peliculas\Peliculas\Abstracciones\obj\Debug\net8.0\Abstracciones.dll
+C:\Users\Distri.Corrales\Documents\ZETA\Trabajo #4\Peliculas\Peliculas\Peliculas\Abstracciones\obj\Debug\net8.0\refint\Abstracciones.dll
+C:\Users\Distri.Corrales\Documents\ZETA\Trabajo #4\Peliculas\Peliculas\Peliculas\Abstracciones\obj\Debug\net8.0\Abstracciones.pdb
+C:\Users\Distri.Corrales\Documents\ZETA\Trabajo #4\Peliculas\Peliculas\Peliculas\Abstracciones\obj\Debug\net8.0\ref\Abstracciones.dll
+C:\Users\Distri.Corrales\Downloads\Peliculas_Actualizado\Peliculas\Abstracciones\obj\Debug\net8.0\Abstracciones.csproj.AssemblyReference.cache
+C:\Users\Distri.Corrales\Downloads\Peliculas_Actualizado\Peliculas\Abstracciones\obj\Debug\net8.0\Abstracciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Distri.Corrales\Downloads\Peliculas_Actualizado\Peliculas\Abstracciones\obj\Debug\net8.0\Abstracciones.AssemblyInfoInputs.cache
+C:\Users\Distri.Corrales\Downloads\Peliculas_Actualizado\Peliculas\Abstracciones\obj\Debug\net8.0\Abstracciones.AssemblyInfo.cs
+C:\Users\Distri.Corrales\Downloads\Peliculas_Actualizado\Peliculas\Abstracciones\obj\Debug\net8.0\Abstracciones.csproj.CoreCompileInputs.cache
+C:\Users\Distri.Corrales\Downloads\Peliculas_Actualizado\Peliculas\Abstracciones\obj\Debug\net8.0\Abstracciones.dll
+C:\Users\Distri.Corrales\Downloads\Peliculas_Actualizado\Peliculas\Abstracciones\obj\Debug\net8.0\refint\Abstracciones.dll
+C:\Users\Distri.Corrales\Downloads\Peliculas_Actualizado\Peliculas\Abstracciones\obj\Debug\net8.0\Abstracciones.pdb
+C:\Users\Distri.Corrales\Downloads\Peliculas_Actualizado\Peliculas\Abstracciones\bin\Debug\net8.0\Abstracciones.deps.json
+C:\Users\Distri.Corrales\Downloads\Peliculas_Actualizado\Peliculas\Abstracciones\bin\Debug\net8.0\Abstracciones.dll
+C:\Users\Distri.Corrales\Downloads\Peliculas_Actualizado\Peliculas\Abstracciones\bin\Debug\net8.0\Abstracciones.pdb
+C:\Users\Distri.Corrales\Downloads\Peliculas_Actualizado\Peliculas\Abstracciones\obj\Debug\net8.0\ref\Abstracciones.dll
+C:\Users\Distri.Corrales\Documents\ZETA\Trabajo #4\Peliculas_Actualizado\Peliculas\Abstracciones\bin\Debug\net8.0\Abstracciones.deps.json
+C:\Users\Distri.Corrales\Documents\ZETA\Trabajo #4\Peliculas_Actualizado\Peliculas\Abstracciones\bin\Debug\net8.0\Abstracciones.dll
+C:\Users\Distri.Corrales\Documents\ZETA\Trabajo #4\Peliculas_Actualizado\Peliculas\Abstracciones\bin\Debug\net8.0\Abstracciones.pdb
+C:\Users\Distri.Corrales\Documents\ZETA\Trabajo #4\Peliculas_Actualizado\Peliculas\Abstracciones\obj\Debug\net8.0\Abstracciones.csproj.AssemblyReference.cache
+C:\Users\Distri.Corrales\Documents\ZETA\Trabajo #4\Peliculas_Actualizado\Peliculas\Abstracciones\obj\Debug\net8.0\Abstracciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Distri.Corrales\Documents\ZETA\Trabajo #4\Peliculas_Actualizado\Peliculas\Abstracciones\obj\Debug\net8.0\Abstracciones.AssemblyInfoInputs.cache
+C:\Users\Distri.Corrales\Documents\ZETA\Trabajo #4\Peliculas_Actualizado\Peliculas\Abstracciones\obj\Debug\net8.0\Abstracciones.AssemblyInfo.cs
+C:\Users\Distri.Corrales\Documents\ZETA\Trabajo #4\Peliculas_Actualizado\Peliculas\Abstracciones\obj\Debug\net8.0\Abstracciones.csproj.CoreCompileInputs.cache
+C:\Users\Distri.Corrales\Documents\ZETA\Trabajo #4\Peliculas_Actualizado\Peliculas\Abstracciones\obj\Debug\net8.0\Abstracciones.dll
+C:\Users\Distri.Corrales\Documents\ZETA\Trabajo #4\Peliculas_Actualizado\Peliculas\Abstracciones\obj\Debug\net8.0\refint\Abstracciones.dll
+C:\Users\Distri.Corrales\Documents\ZETA\Trabajo #4\Peliculas_Actualizado\Peliculas\Abstracciones\obj\Debug\net8.0\Abstracciones.pdb
+C:\Users\Distri.Corrales\Documents\ZETA\Trabajo #4\Peliculas_Actualizado\Peliculas\Abstracciones\obj\Debug\net8.0\ref\Abstracciones.dll
+C:\Users\Distri.Corrales\Videos\Peliculas\Peliculas\Abstracciones\bin\Debug\net8.0\Abstracciones.deps.json
+C:\Users\Distri.Corrales\Videos\Peliculas\Peliculas\Abstracciones\bin\Debug\net8.0\Abstracciones.dll
+C:\Users\Distri.Corrales\Videos\Peliculas\Peliculas\Abstracciones\bin\Debug\net8.0\Abstracciones.pdb
+C:\Users\Distri.Corrales\Videos\Peliculas\Peliculas\Abstracciones\obj\Debug\net8.0\Abstracciones.csproj.AssemblyReference.cache
+C:\Users\Distri.Corrales\Videos\Peliculas\Peliculas\Abstracciones\obj\Debug\net8.0\Abstracciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Distri.Corrales\Videos\Peliculas\Peliculas\Abstracciones\obj\Debug\net8.0\Abstracciones.AssemblyInfoInputs.cache
+C:\Users\Distri.Corrales\Videos\Peliculas\Peliculas\Abstracciones\obj\Debug\net8.0\Abstracciones.AssemblyInfo.cs
+C:\Users\Distri.Corrales\Videos\Peliculas\Peliculas\Abstracciones\obj\Debug\net8.0\Abstracciones.csproj.CoreCompileInputs.cache
+C:\Users\Distri.Corrales\Videos\Peliculas\Peliculas\Abstracciones\obj\Debug\net8.0\Abstracciones.dll
+C:\Users\Distri.Corrales\Videos\Peliculas\Peliculas\Abstracciones\obj\Debug\net8.0\refint\Abstracciones.dll
+C:\Users\Distri.Corrales\Videos\Peliculas\Peliculas\Abstracciones\obj\Debug\net8.0\Abstracciones.pdb
+C:\Users\Distri.Corrales\Videos\Peliculas\Peliculas\Abstracciones\obj\Debug\net8.0\ref\Abstracciones.dll
+C:\Users\aranb\Downloads\Peliculas Completa\Peliculas\Abstracciones\bin\Debug\net8.0\Abstracciones.deps.json
+C:\Users\aranb\Downloads\Peliculas Completa\Peliculas\Abstracciones\bin\Debug\net8.0\Abstracciones.dll
+C:\Users\aranb\Downloads\Peliculas Completa\Peliculas\Abstracciones\bin\Debug\net8.0\Abstracciones.pdb
+C:\Users\aranb\Downloads\Peliculas Completa\Peliculas\Abstracciones\obj\Debug\net8.0\Abstracciones.csproj.AssemblyReference.cache
+C:\Users\aranb\Downloads\Peliculas Completa\Peliculas\Abstracciones\obj\Debug\net8.0\Abstracciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aranb\Downloads\Peliculas Completa\Peliculas\Abstracciones\obj\Debug\net8.0\Abstracciones.AssemblyInfoInputs.cache
+C:\Users\aranb\Downloads\Peliculas Completa\Peliculas\Abstracciones\obj\Debug\net8.0\Abstracciones.AssemblyInfo.cs
+C:\Users\aranb\Downloads\Peliculas Completa\Peliculas\Abstracciones\obj\Debug\net8.0\Abstracciones.csproj.CoreCompileInputs.cache
+C:\Users\aranb\Downloads\Peliculas Completa\Peliculas\Abstracciones\obj\Debug\net8.0\Abstracciones.dll
+C:\Users\aranb\Downloads\Peliculas Completa\Peliculas\Abstracciones\obj\Debug\net8.0\refint\Abstracciones.dll
+C:\Users\aranb\Downloads\Peliculas Completa\Peliculas\Abstracciones\obj\Debug\net8.0\Abstracciones.pdb
+C:\Users\aranb\Downloads\Peliculas Completa\Peliculas\Abstracciones\obj\Debug\net8.0\ref\Abstracciones.dll
+C:\Users\aranb\Source\Repos\SC-701\caso-pr-ctico-2-grupobraynerpaw\Peliculas\Abstracciones\bin\Debug\net8.0\Abstracciones.deps.json
+C:\Users\aranb\Source\Repos\SC-701\caso-pr-ctico-2-grupobraynerpaw\Peliculas\Abstracciones\bin\Debug\net8.0\Abstracciones.dll
+C:\Users\aranb\Source\Repos\SC-701\caso-pr-ctico-2-grupobraynerpaw\Peliculas\Abstracciones\bin\Debug\net8.0\Abstracciones.pdb
+C:\Users\aranb\Source\Repos\SC-701\caso-pr-ctico-2-grupobraynerpaw\Peliculas\Abstracciones\obj\Debug\net8.0\Abstracciones.csproj.AssemblyReference.cache
+C:\Users\aranb\Source\Repos\SC-701\caso-pr-ctico-2-grupobraynerpaw\Peliculas\Abstracciones\obj\Debug\net8.0\Abstracciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aranb\Source\Repos\SC-701\caso-pr-ctico-2-grupobraynerpaw\Peliculas\Abstracciones\obj\Debug\net8.0\Abstracciones.AssemblyInfoInputs.cache
+C:\Users\aranb\Source\Repos\SC-701\caso-pr-ctico-2-grupobraynerpaw\Peliculas\Abstracciones\obj\Debug\net8.0\Abstracciones.AssemblyInfo.cs
+C:\Users\aranb\Source\Repos\SC-701\caso-pr-ctico-2-grupobraynerpaw\Peliculas\Abstracciones\obj\Debug\net8.0\Abstracciones.csproj.CoreCompileInputs.cache
+C:\Users\aranb\Source\Repos\SC-701\caso-pr-ctico-2-grupobraynerpaw\Peliculas\Abstracciones\obj\Debug\net8.0\Abstracciones.sourcelink.json
+C:\Users\aranb\Source\Repos\SC-701\caso-pr-ctico-2-grupobraynerpaw\Peliculas\Abstracciones\obj\Debug\net8.0\Abstracciones.dll
+C:\Users\aranb\Source\Repos\SC-701\caso-pr-ctico-2-grupobraynerpaw\Peliculas\Abstracciones\obj\Debug\net8.0\refint\Abstracciones.dll
+C:\Users\aranb\Source\Repos\SC-701\caso-pr-ctico-2-grupobraynerpaw\Peliculas\Abstracciones\obj\Debug\net8.0\Abstracciones.pdb
+C:\Users\aranb\Source\Repos\SC-701\caso-pr-ctico-2-grupobraynerpaw\Peliculas\Abstracciones\obj\Debug\net8.0\ref\Abstracciones.dll
+C:\Users\aranb\source\repos\SC-701\caso-pr-ctico-2-grupobraynerpaw\SC-701-PAG4-K\Peliculas\Abstracciones\bin\Debug\net8.0\Abstracciones.deps.json
+C:\Users\aranb\source\repos\SC-701\caso-pr-ctico-2-grupobraynerpaw\SC-701-PAG4-K\Peliculas\Abstracciones\bin\Debug\net8.0\Abstracciones.dll
+C:\Users\aranb\source\repos\SC-701\caso-pr-ctico-2-grupobraynerpaw\SC-701-PAG4-K\Peliculas\Abstracciones\bin\Debug\net8.0\Abstracciones.pdb
+C:\Users\aranb\source\repos\SC-701\caso-pr-ctico-2-grupobraynerpaw\SC-701-PAG4-K\Peliculas\Abstracciones\obj\Debug\net8.0\Abstracciones.csproj.AssemblyReference.cache
+C:\Users\aranb\source\repos\SC-701\caso-pr-ctico-2-grupobraynerpaw\SC-701-PAG4-K\Peliculas\Abstracciones\obj\Debug\net8.0\Abstracciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aranb\source\repos\SC-701\caso-pr-ctico-2-grupobraynerpaw\SC-701-PAG4-K\Peliculas\Abstracciones\obj\Debug\net8.0\Abstracciones.AssemblyInfoInputs.cache
+C:\Users\aranb\source\repos\SC-701\caso-pr-ctico-2-grupobraynerpaw\SC-701-PAG4-K\Peliculas\Abstracciones\obj\Debug\net8.0\Abstracciones.AssemblyInfo.cs
+C:\Users\aranb\source\repos\SC-701\caso-pr-ctico-2-grupobraynerpaw\SC-701-PAG4-K\Peliculas\Abstracciones\obj\Debug\net8.0\Abstracciones.csproj.CoreCompileInputs.cache
+C:\Users\aranb\source\repos\SC-701\caso-pr-ctico-2-grupobraynerpaw\SC-701-PAG4-K\Peliculas\Abstracciones\obj\Debug\net8.0\Abstracciones.sourcelink.json
+C:\Users\aranb\source\repos\SC-701\caso-pr-ctico-2-grupobraynerpaw\SC-701-PAG4-K\Peliculas\Abstracciones\obj\Debug\net8.0\Abstracciones.dll
+C:\Users\aranb\source\repos\SC-701\caso-pr-ctico-2-grupobraynerpaw\SC-701-PAG4-K\Peliculas\Abstracciones\obj\Debug\net8.0\refint\Abstracciones.dll
+C:\Users\aranb\source\repos\SC-701\caso-pr-ctico-2-grupobraynerpaw\SC-701-PAG4-K\Peliculas\Abstracciones\obj\Debug\net8.0\Abstracciones.pdb
+C:\Users\aranb\source\repos\SC-701\caso-pr-ctico-2-grupobraynerpaw\SC-701-PAG4-K\Peliculas\Abstracciones\obj\Debug\net8.0\ref\Abstracciones.dll
+C:\Users\aranb\source\repos\SC-701\caso-pr-ctico-2-grupobraynerpaw\SC-701-PAG4-K\Peliculas\Abstracciones\bin\Debug\net8.0\Abstracciones.runtimeconfig.json
+C:\Users\aranb\source\repos\SC-701\caso-pr-ctico-2-grupobraynerpaw\SC-701-PAG4-K\Peliculas\Abstracciones\obj\Debug\net8.0\Abstracciones.genruntimeconfig.cache
+C:\Users\aj199\Videos\Progra Web Avanzada\PROYECTO\final\SC-701-PAG4-K v2\SC-701-PAG4-K\Peliculas\Abstracciones\bin\Debug\net8.0\Abstracciones.deps.json
+C:\Users\aj199\Videos\Progra Web Avanzada\PROYECTO\final\SC-701-PAG4-K v2\SC-701-PAG4-K\Peliculas\Abstracciones\bin\Debug\net8.0\Abstracciones.runtimeconfig.json
+C:\Users\aj199\Videos\Progra Web Avanzada\PROYECTO\final\SC-701-PAG4-K v2\SC-701-PAG4-K\Peliculas\Abstracciones\bin\Debug\net8.0\Abstracciones.dll
+C:\Users\aj199\Videos\Progra Web Avanzada\PROYECTO\final\SC-701-PAG4-K v2\SC-701-PAG4-K\Peliculas\Abstracciones\bin\Debug\net8.0\Abstracciones.pdb
+C:\Users\aj199\Videos\Progra Web Avanzada\PROYECTO\final\SC-701-PAG4-K v2\SC-701-PAG4-K\Peliculas\Abstracciones\obj\Debug\net8.0\Abstracciones.csproj.AssemblyReference.cache
+C:\Users\aj199\Videos\Progra Web Avanzada\PROYECTO\final\SC-701-PAG4-K v2\SC-701-PAG4-K\Peliculas\Abstracciones\obj\Debug\net8.0\Abstracciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aj199\Videos\Progra Web Avanzada\PROYECTO\final\SC-701-PAG4-K v2\SC-701-PAG4-K\Peliculas\Abstracciones\obj\Debug\net8.0\Abstracciones.AssemblyInfoInputs.cache
+C:\Users\aj199\Videos\Progra Web Avanzada\PROYECTO\final\SC-701-PAG4-K v2\SC-701-PAG4-K\Peliculas\Abstracciones\obj\Debug\net8.0\Abstracciones.AssemblyInfo.cs
+C:\Users\aj199\Videos\Progra Web Avanzada\PROYECTO\final\SC-701-PAG4-K v2\SC-701-PAG4-K\Peliculas\Abstracciones\obj\Debug\net8.0\Abstracciones.csproj.CoreCompileInputs.cache
+C:\Users\aj199\Videos\Progra Web Avanzada\PROYECTO\final\SC-701-PAG4-K v2\SC-701-PAG4-K\Peliculas\Abstracciones\obj\Debug\net8.0\Abstracciones.dll
+C:\Users\aj199\Videos\Progra Web Avanzada\PROYECTO\final\SC-701-PAG4-K v2\SC-701-PAG4-K\Peliculas\Abstracciones\obj\Debug\net8.0\refint\Abstracciones.dll
+C:\Users\aj199\Videos\Progra Web Avanzada\PROYECTO\final\SC-701-PAG4-K v2\SC-701-PAG4-K\Peliculas\Abstracciones\obj\Debug\net8.0\Abstracciones.pdb
+C:\Users\aj199\Videos\Progra Web Avanzada\PROYECTO\final\SC-701-PAG4-K v2\SC-701-PAG4-K\Peliculas\Abstracciones\obj\Debug\net8.0\Abstracciones.genruntimeconfig.cache
+C:\Users\aj199\Videos\Progra Web Avanzada\PROYECTO\final\SC-701-PAG4-K v2\SC-701-PAG4-K\Peliculas\Abstracciones\obj\Debug\net8.0\ref\Abstracciones.dll

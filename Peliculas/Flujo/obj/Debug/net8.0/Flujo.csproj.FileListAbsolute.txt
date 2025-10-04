@@ -1,0 +1,201 @@
+C:\Users\Distri.Corrales\Downloads\Peliculas_Con_Flujo\Peliculas_RepositorioDapper_Fixed\Peliculas_Fix_ConnectionString\Flujo\bin\Debug\net8.0\Flujo.deps.json
+C:\Users\Distri.Corrales\Downloads\Peliculas_Con_Flujo\Peliculas_RepositorioDapper_Fixed\Peliculas_Fix_ConnectionString\Flujo\bin\Debug\net8.0\Flujo.dll
+C:\Users\Distri.Corrales\Downloads\Peliculas_Con_Flujo\Peliculas_RepositorioDapper_Fixed\Peliculas_Fix_ConnectionString\Flujo\bin\Debug\net8.0\Flujo.pdb
+C:\Users\Distri.Corrales\Downloads\Peliculas_Con_Flujo\Peliculas_RepositorioDapper_Fixed\Peliculas_Fix_ConnectionString\Flujo\bin\Debug\net8.0\Abstracciones.dll
+C:\Users\Distri.Corrales\Downloads\Peliculas_Con_Flujo\Peliculas_RepositorioDapper_Fixed\Peliculas_Fix_ConnectionString\Flujo\bin\Debug\net8.0\Abstracciones.pdb
+C:\Users\Distri.Corrales\Downloads\Peliculas_Con_Flujo\Peliculas_RepositorioDapper_Fixed\Peliculas_Fix_ConnectionString\Flujo\obj\Debug\net8.0\Flujo.csproj.AssemblyReference.cache
+C:\Users\Distri.Corrales\Downloads\Peliculas_Con_Flujo\Peliculas_RepositorioDapper_Fixed\Peliculas_Fix_ConnectionString\Flujo\obj\Debug\net8.0\Flujo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Distri.Corrales\Downloads\Peliculas_Con_Flujo\Peliculas_RepositorioDapper_Fixed\Peliculas_Fix_ConnectionString\Flujo\obj\Debug\net8.0\Flujo.AssemblyInfoInputs.cache
+C:\Users\Distri.Corrales\Downloads\Peliculas_Con_Flujo\Peliculas_RepositorioDapper_Fixed\Peliculas_Fix_ConnectionString\Flujo\obj\Debug\net8.0\Flujo.AssemblyInfo.cs
+C:\Users\Distri.Corrales\Downloads\Peliculas_Con_Flujo\Peliculas_RepositorioDapper_Fixed\Peliculas_Fix_ConnectionString\Flujo\obj\Debug\net8.0\Flujo.csproj.CoreCompileInputs.cache
+C:\Users\Distri.Corrales\Downloads\Peliculas_Con_Flujo\Peliculas_RepositorioDapper_Fixed\Peliculas_Fix_ConnectionString\Flujo\obj\Debug\net8.0\Flujo.csproj.Up2Date
+C:\Users\Distri.Corrales\Downloads\Peliculas_Con_Flujo\Peliculas_RepositorioDapper_Fixed\Peliculas_Fix_ConnectionString\Flujo\obj\Debug\net8.0\Flujo.dll
+C:\Users\Distri.Corrales\Downloads\Peliculas_Con_Flujo\Peliculas_RepositorioDapper_Fixed\Peliculas_Fix_ConnectionString\Flujo\obj\Debug\net8.0\refint\Flujo.dll
+C:\Users\Distri.Corrales\Downloads\Peliculas_Con_Flujo\Peliculas_RepositorioDapper_Fixed\Peliculas_Fix_ConnectionString\Flujo\obj\Debug\net8.0\Flujo.pdb
+C:\Users\Distri.Corrales\Downloads\Peliculas_Con_Flujo\Peliculas_RepositorioDapper_Fixed\Peliculas_Fix_ConnectionString\Flujo\obj\Debug\net8.0\ref\Flujo.dll
+C:\Users\Distri.Corrales\Desktop\Peliculas\Flujo\bin\Debug\net8.0\Flujo.deps.json
+C:\Users\Distri.Corrales\Desktop\Peliculas\Flujo\bin\Debug\net8.0\Flujo.dll
+C:\Users\Distri.Corrales\Desktop\Peliculas\Flujo\bin\Debug\net8.0\Flujo.pdb
+C:\Users\Distri.Corrales\Desktop\Peliculas\Flujo\bin\Debug\net8.0\Abstracciones.dll
+C:\Users\Distri.Corrales\Desktop\Peliculas\Flujo\bin\Debug\net8.0\Abstracciones.pdb
+C:\Users\Distri.Corrales\Desktop\Peliculas\Flujo\obj\Debug\net8.0\Flujo.csproj.AssemblyReference.cache
+C:\Users\Distri.Corrales\Desktop\Peliculas\Flujo\obj\Debug\net8.0\Flujo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Distri.Corrales\Desktop\Peliculas\Flujo\obj\Debug\net8.0\Flujo.AssemblyInfoInputs.cache
+C:\Users\Distri.Corrales\Desktop\Peliculas\Flujo\obj\Debug\net8.0\Flujo.AssemblyInfo.cs
+C:\Users\Distri.Corrales\Desktop\Peliculas\Flujo\obj\Debug\net8.0\Flujo.csproj.CoreCompileInputs.cache
+C:\Users\Distri.Corrales\Desktop\Peliculas\Flujo\obj\Debug\net8.0\Flujo.csproj.Up2Date
+C:\Users\Distri.Corrales\Desktop\Peliculas\Flujo\obj\Debug\net8.0\Flujo.dll
+C:\Users\Distri.Corrales\Desktop\Peliculas\Flujo\obj\Debug\net8.0\refint\Flujo.dll
+C:\Users\Distri.Corrales\Desktop\Peliculas\Flujo\obj\Debug\net8.0\Flujo.pdb
+C:\Users\Distri.Corrales\Desktop\Peliculas\Flujo\obj\Debug\net8.0\ref\Flujo.dll
+C:\Users\Distri.Corrales\Downloads\Peliculas_Corregido (1)\Flujo\bin\Debug\net8.0\Flujo.deps.json
+C:\Users\Distri.Corrales\Downloads\Peliculas_Corregido (1)\Flujo\bin\Debug\net8.0\Flujo.dll
+C:\Users\Distri.Corrales\Downloads\Peliculas_Corregido (1)\Flujo\bin\Debug\net8.0\Flujo.pdb
+C:\Users\Distri.Corrales\Downloads\Peliculas_Corregido (1)\Flujo\bin\Debug\net8.0\Abstracciones.dll
+C:\Users\Distri.Corrales\Downloads\Peliculas_Corregido (1)\Flujo\bin\Debug\net8.0\Abstracciones.pdb
+C:\Users\Distri.Corrales\Downloads\Peliculas_Corregido (1)\Flujo\obj\Debug\net8.0\Flujo.csproj.AssemblyReference.cache
+C:\Users\Distri.Corrales\Downloads\Peliculas_Corregido (1)\Flujo\obj\Debug\net8.0\Flujo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Distri.Corrales\Downloads\Peliculas_Corregido (1)\Flujo\obj\Debug\net8.0\Flujo.AssemblyInfoInputs.cache
+C:\Users\Distri.Corrales\Downloads\Peliculas_Corregido (1)\Flujo\obj\Debug\net8.0\Flujo.AssemblyInfo.cs
+C:\Users\Distri.Corrales\Downloads\Peliculas_Corregido (1)\Flujo\obj\Debug\net8.0\Flujo.csproj.CoreCompileInputs.cache
+C:\Users\Distri.Corrales\Downloads\Peliculas_Corregido (1)\Flujo\obj\Debug\net8.0\Flujo.csproj.Up2Date
+C:\Users\Distri.Corrales\Downloads\Peliculas_Corregido (1)\Flujo\obj\Debug\net8.0\Flujo.dll
+C:\Users\Distri.Corrales\Downloads\Peliculas_Corregido (1)\Flujo\obj\Debug\net8.0\refint\Flujo.dll
+C:\Users\Distri.Corrales\Downloads\Peliculas_Corregido (1)\Flujo\obj\Debug\net8.0\Flujo.pdb
+C:\Users\Distri.Corrales\Downloads\Peliculas_Corregido (1)\Flujo\obj\Debug\net8.0\ref\Flujo.dll
+C:\Users\Distri.Corrales\Documents\ZETA\Trabajo #4\Peliculas\Flujo\bin\Debug\net8.0\Flujo.deps.json
+C:\Users\Distri.Corrales\Documents\ZETA\Trabajo #4\Peliculas\Flujo\bin\Debug\net8.0\Flujo.dll
+C:\Users\Distri.Corrales\Documents\ZETA\Trabajo #4\Peliculas\Flujo\bin\Debug\net8.0\Flujo.pdb
+C:\Users\Distri.Corrales\Documents\ZETA\Trabajo #4\Peliculas\Flujo\bin\Debug\net8.0\Abstracciones.dll
+C:\Users\Distri.Corrales\Documents\ZETA\Trabajo #4\Peliculas\Flujo\bin\Debug\net8.0\Abstracciones.pdb
+C:\Users\Distri.Corrales\Documents\ZETA\Trabajo #4\Peliculas\Flujo\obj\Debug\net8.0\Flujo.csproj.AssemblyReference.cache
+C:\Users\Distri.Corrales\Documents\ZETA\Trabajo #4\Peliculas\Flujo\obj\Debug\net8.0\Flujo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Distri.Corrales\Documents\ZETA\Trabajo #4\Peliculas\Flujo\obj\Debug\net8.0\Flujo.AssemblyInfoInputs.cache
+C:\Users\Distri.Corrales\Documents\ZETA\Trabajo #4\Peliculas\Flujo\obj\Debug\net8.0\Flujo.AssemblyInfo.cs
+C:\Users\Distri.Corrales\Documents\ZETA\Trabajo #4\Peliculas\Flujo\obj\Debug\net8.0\Flujo.csproj.CoreCompileInputs.cache
+C:\Users\Distri.Corrales\Documents\ZETA\Trabajo #4\Peliculas\Flujo\obj\Debug\net8.0\Flujo.csproj.Up2Date
+C:\Users\Distri.Corrales\Documents\ZETA\Trabajo #4\Peliculas\Flujo\obj\Debug\net8.0\Flujo.dll
+C:\Users\Distri.Corrales\Documents\ZETA\Trabajo #4\Peliculas\Flujo\obj\Debug\net8.0\refint\Flujo.dll
+C:\Users\Distri.Corrales\Documents\ZETA\Trabajo #4\Peliculas\Flujo\obj\Debug\net8.0\Flujo.pdb
+C:\Users\Distri.Corrales\Documents\ZETA\Trabajo #4\Peliculas\Flujo\obj\Debug\net8.0\ref\Flujo.dll
+C:\Users\Distri.Corrales\Documents\ZETA\Trabajo #4\Peliculas\Peliculas\Flujo\obj\Debug\net8.0\Flujo.csproj.AssemblyReference.cache
+C:\Users\Distri.Corrales\Documents\ZETA\Trabajo #4\Peliculas\Peliculas\Flujo\obj\Debug\net8.0\Flujo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Distri.Corrales\Documents\ZETA\Trabajo #4\Peliculas\Peliculas\Flujo\obj\Debug\net8.0\Flujo.AssemblyInfoInputs.cache
+C:\Users\Distri.Corrales\Documents\ZETA\Trabajo #4\Peliculas\Peliculas\Flujo\obj\Debug\net8.0\Flujo.AssemblyInfo.cs
+C:\Users\Distri.Corrales\Documents\ZETA\Trabajo #4\Peliculas\Peliculas\Flujo\obj\Debug\net8.0\Flujo.csproj.CoreCompileInputs.cache
+C:\Users\Distri.Corrales\Documents\ZETA\Trabajo #4\Peliculas\Peliculas\Flujo\obj\Debug\net8.0\Flujo.dll
+C:\Users\Distri.Corrales\Documents\ZETA\Trabajo #4\Peliculas\Peliculas\Flujo\obj\Debug\net8.0\refint\Flujo.dll
+C:\Users\Distri.Corrales\Documents\ZETA\Trabajo #4\Peliculas\Peliculas\Flujo\obj\Debug\net8.0\Flujo.pdb
+C:\Users\Distri.Corrales\Documents\ZETA\Trabajo #4\Peliculas\Peliculas\Flujo\bin\Debug\net8.0\Flujo.deps.json
+C:\Users\Distri.Corrales\Documents\ZETA\Trabajo #4\Peliculas\Peliculas\Flujo\bin\Debug\net8.0\Flujo.dll
+C:\Users\Distri.Corrales\Documents\ZETA\Trabajo #4\Peliculas\Peliculas\Flujo\bin\Debug\net8.0\Flujo.pdb
+C:\Users\Distri.Corrales\Documents\ZETA\Trabajo #4\Peliculas\Peliculas\Flujo\bin\Debug\net8.0\Abstracciones.dll
+C:\Users\Distri.Corrales\Documents\ZETA\Trabajo #4\Peliculas\Peliculas\Flujo\bin\Debug\net8.0\Abstracciones.pdb
+C:\Users\Distri.Corrales\Documents\ZETA\Trabajo #4\Peliculas\Peliculas\Flujo\obj\Debug\net8.0\Flujo.csproj.Up2Date
+C:\Users\Distri.Corrales\Documents\ZETA\Trabajo #4\Peliculas\Peliculas\Flujo\obj\Debug\net8.0\ref\Flujo.dll
+C:\Users\Distri.Corrales\Documents\ZETA\Trabajo #4\Peliculas\Peliculas\Peliculas\Flujo\bin\Debug\net8.0\Flujo.deps.json
+C:\Users\Distri.Corrales\Documents\ZETA\Trabajo #4\Peliculas\Peliculas\Peliculas\Flujo\bin\Debug\net8.0\Flujo.dll
+C:\Users\Distri.Corrales\Documents\ZETA\Trabajo #4\Peliculas\Peliculas\Peliculas\Flujo\bin\Debug\net8.0\Flujo.pdb
+C:\Users\Distri.Corrales\Documents\ZETA\Trabajo #4\Peliculas\Peliculas\Peliculas\Flujo\bin\Debug\net8.0\Abstracciones.dll
+C:\Users\Distri.Corrales\Documents\ZETA\Trabajo #4\Peliculas\Peliculas\Peliculas\Flujo\bin\Debug\net8.0\Abstracciones.pdb
+C:\Users\Distri.Corrales\Documents\ZETA\Trabajo #4\Peliculas\Peliculas\Peliculas\Flujo\obj\Debug\net8.0\Flujo.csproj.AssemblyReference.cache
+C:\Users\Distri.Corrales\Documents\ZETA\Trabajo #4\Peliculas\Peliculas\Peliculas\Flujo\obj\Debug\net8.0\Flujo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Distri.Corrales\Documents\ZETA\Trabajo #4\Peliculas\Peliculas\Peliculas\Flujo\obj\Debug\net8.0\Flujo.AssemblyInfoInputs.cache
+C:\Users\Distri.Corrales\Documents\ZETA\Trabajo #4\Peliculas\Peliculas\Peliculas\Flujo\obj\Debug\net8.0\Flujo.AssemblyInfo.cs
+C:\Users\Distri.Corrales\Documents\ZETA\Trabajo #4\Peliculas\Peliculas\Peliculas\Flujo\obj\Debug\net8.0\Flujo.csproj.CoreCompileInputs.cache
+C:\Users\Distri.Corrales\Documents\ZETA\Trabajo #4\Peliculas\Peliculas\Peliculas\Flujo\obj\Debug\net8.0\Flujo.csproj.Up2Date
+C:\Users\Distri.Corrales\Documents\ZETA\Trabajo #4\Peliculas\Peliculas\Peliculas\Flujo\obj\Debug\net8.0\Flujo.dll
+C:\Users\Distri.Corrales\Documents\ZETA\Trabajo #4\Peliculas\Peliculas\Peliculas\Flujo\obj\Debug\net8.0\refint\Flujo.dll
+C:\Users\Distri.Corrales\Documents\ZETA\Trabajo #4\Peliculas\Peliculas\Peliculas\Flujo\obj\Debug\net8.0\Flujo.pdb
+C:\Users\Distri.Corrales\Documents\ZETA\Trabajo #4\Peliculas\Peliculas\Peliculas\Flujo\obj\Debug\net8.0\ref\Flujo.dll
+C:\Users\Distri.Corrales\Downloads\Peliculas_Actualizado\Peliculas\Flujo\bin\Debug\net8.0\Flujo.deps.json
+C:\Users\Distri.Corrales\Downloads\Peliculas_Actualizado\Peliculas\Flujo\bin\Debug\net8.0\Flujo.dll
+C:\Users\Distri.Corrales\Downloads\Peliculas_Actualizado\Peliculas\Flujo\bin\Debug\net8.0\Flujo.pdb
+C:\Users\Distri.Corrales\Downloads\Peliculas_Actualizado\Peliculas\Flujo\bin\Debug\net8.0\Abstracciones.dll
+C:\Users\Distri.Corrales\Downloads\Peliculas_Actualizado\Peliculas\Flujo\bin\Debug\net8.0\Abstracciones.pdb
+C:\Users\Distri.Corrales\Downloads\Peliculas_Actualizado\Peliculas\Flujo\obj\Debug\net8.0\Flujo.csproj.AssemblyReference.cache
+C:\Users\Distri.Corrales\Downloads\Peliculas_Actualizado\Peliculas\Flujo\obj\Debug\net8.0\Flujo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Distri.Corrales\Downloads\Peliculas_Actualizado\Peliculas\Flujo\obj\Debug\net8.0\Flujo.AssemblyInfoInputs.cache
+C:\Users\Distri.Corrales\Downloads\Peliculas_Actualizado\Peliculas\Flujo\obj\Debug\net8.0\Flujo.AssemblyInfo.cs
+C:\Users\Distri.Corrales\Downloads\Peliculas_Actualizado\Peliculas\Flujo\obj\Debug\net8.0\Flujo.csproj.CoreCompileInputs.cache
+C:\Users\Distri.Corrales\Downloads\Peliculas_Actualizado\Peliculas\Flujo\obj\Debug\net8.0\Flujo.csproj.Up2Date
+C:\Users\Distri.Corrales\Downloads\Peliculas_Actualizado\Peliculas\Flujo\obj\Debug\net8.0\Flujo.dll
+C:\Users\Distri.Corrales\Downloads\Peliculas_Actualizado\Peliculas\Flujo\obj\Debug\net8.0\refint\Flujo.dll
+C:\Users\Distri.Corrales\Downloads\Peliculas_Actualizado\Peliculas\Flujo\obj\Debug\net8.0\Flujo.pdb
+C:\Users\Distri.Corrales\Downloads\Peliculas_Actualizado\Peliculas\Flujo\obj\Debug\net8.0\ref\Flujo.dll
+C:\Users\Distri.Corrales\Documents\ZETA\Trabajo #4\Peliculas_Actualizado\Peliculas\Flujo\bin\Debug\net8.0\Flujo.deps.json
+C:\Users\Distri.Corrales\Documents\ZETA\Trabajo #4\Peliculas_Actualizado\Peliculas\Flujo\bin\Debug\net8.0\Flujo.dll
+C:\Users\Distri.Corrales\Documents\ZETA\Trabajo #4\Peliculas_Actualizado\Peliculas\Flujo\bin\Debug\net8.0\Flujo.pdb
+C:\Users\Distri.Corrales\Documents\ZETA\Trabajo #4\Peliculas_Actualizado\Peliculas\Flujo\bin\Debug\net8.0\Abstracciones.dll
+C:\Users\Distri.Corrales\Documents\ZETA\Trabajo #4\Peliculas_Actualizado\Peliculas\Flujo\bin\Debug\net8.0\Abstracciones.pdb
+C:\Users\Distri.Corrales\Documents\ZETA\Trabajo #4\Peliculas_Actualizado\Peliculas\Flujo\obj\Debug\net8.0\Flujo.csproj.AssemblyReference.cache
+C:\Users\Distri.Corrales\Documents\ZETA\Trabajo #4\Peliculas_Actualizado\Peliculas\Flujo\obj\Debug\net8.0\Flujo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Distri.Corrales\Documents\ZETA\Trabajo #4\Peliculas_Actualizado\Peliculas\Flujo\obj\Debug\net8.0\Flujo.AssemblyInfoInputs.cache
+C:\Users\Distri.Corrales\Documents\ZETA\Trabajo #4\Peliculas_Actualizado\Peliculas\Flujo\obj\Debug\net8.0\Flujo.AssemblyInfo.cs
+C:\Users\Distri.Corrales\Documents\ZETA\Trabajo #4\Peliculas_Actualizado\Peliculas\Flujo\obj\Debug\net8.0\Flujo.csproj.CoreCompileInputs.cache
+C:\Users\Distri.Corrales\Documents\ZETA\Trabajo #4\Peliculas_Actualizado\Peliculas\Flujo\obj\Debug\net8.0\Flujo.csproj.Up2Date
+C:\Users\Distri.Corrales\Documents\ZETA\Trabajo #4\Peliculas_Actualizado\Peliculas\Flujo\obj\Debug\net8.0\Flujo.dll
+C:\Users\Distri.Corrales\Documents\ZETA\Trabajo #4\Peliculas_Actualizado\Peliculas\Flujo\obj\Debug\net8.0\refint\Flujo.dll
+C:\Users\Distri.Corrales\Documents\ZETA\Trabajo #4\Peliculas_Actualizado\Peliculas\Flujo\obj\Debug\net8.0\Flujo.pdb
+C:\Users\Distri.Corrales\Documents\ZETA\Trabajo #4\Peliculas_Actualizado\Peliculas\Flujo\obj\Debug\net8.0\ref\Flujo.dll
+C:\Users\Distri.Corrales\Videos\Peliculas\Peliculas\Flujo\bin\Debug\net8.0\Flujo.deps.json
+C:\Users\Distri.Corrales\Videos\Peliculas\Peliculas\Flujo\bin\Debug\net8.0\Flujo.dll
+C:\Users\Distri.Corrales\Videos\Peliculas\Peliculas\Flujo\bin\Debug\net8.0\Flujo.pdb
+C:\Users\Distri.Corrales\Videos\Peliculas\Peliculas\Flujo\bin\Debug\net8.0\Abstracciones.dll
+C:\Users\Distri.Corrales\Videos\Peliculas\Peliculas\Flujo\bin\Debug\net8.0\Abstracciones.pdb
+C:\Users\Distri.Corrales\Videos\Peliculas\Peliculas\Flujo\obj\Debug\net8.0\Flujo.csproj.AssemblyReference.cache
+C:\Users\Distri.Corrales\Videos\Peliculas\Peliculas\Flujo\obj\Debug\net8.0\Flujo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Distri.Corrales\Videos\Peliculas\Peliculas\Flujo\obj\Debug\net8.0\Flujo.AssemblyInfoInputs.cache
+C:\Users\Distri.Corrales\Videos\Peliculas\Peliculas\Flujo\obj\Debug\net8.0\Flujo.AssemblyInfo.cs
+C:\Users\Distri.Corrales\Videos\Peliculas\Peliculas\Flujo\obj\Debug\net8.0\Flujo.csproj.CoreCompileInputs.cache
+C:\Users\Distri.Corrales\Videos\Peliculas\Peliculas\Flujo\obj\Debug\net8.0\Flujo.csproj.Up2Date
+C:\Users\Distri.Corrales\Videos\Peliculas\Peliculas\Flujo\obj\Debug\net8.0\Flujo.dll
+C:\Users\Distri.Corrales\Videos\Peliculas\Peliculas\Flujo\obj\Debug\net8.0\refint\Flujo.dll
+C:\Users\Distri.Corrales\Videos\Peliculas\Peliculas\Flujo\obj\Debug\net8.0\Flujo.pdb
+C:\Users\Distri.Corrales\Videos\Peliculas\Peliculas\Flujo\obj\Debug\net8.0\ref\Flujo.dll
+C:\Users\aranb\Downloads\Peliculas Completa\Peliculas\Flujo\bin\Debug\net8.0\Flujo.deps.json
+C:\Users\aranb\Downloads\Peliculas Completa\Peliculas\Flujo\bin\Debug\net8.0\Flujo.dll
+C:\Users\aranb\Downloads\Peliculas Completa\Peliculas\Flujo\bin\Debug\net8.0\Flujo.pdb
+C:\Users\aranb\Downloads\Peliculas Completa\Peliculas\Flujo\bin\Debug\net8.0\Abstracciones.dll
+C:\Users\aranb\Downloads\Peliculas Completa\Peliculas\Flujo\bin\Debug\net8.0\Abstracciones.pdb
+C:\Users\aranb\Downloads\Peliculas Completa\Peliculas\Flujo\obj\Debug\net8.0\Flujo.csproj.AssemblyReference.cache
+C:\Users\aranb\Downloads\Peliculas Completa\Peliculas\Flujo\obj\Debug\net8.0\Flujo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aranb\Downloads\Peliculas Completa\Peliculas\Flujo\obj\Debug\net8.0\Flujo.AssemblyInfoInputs.cache
+C:\Users\aranb\Downloads\Peliculas Completa\Peliculas\Flujo\obj\Debug\net8.0\Flujo.AssemblyInfo.cs
+C:\Users\aranb\Downloads\Peliculas Completa\Peliculas\Flujo\obj\Debug\net8.0\Flujo.csproj.CoreCompileInputs.cache
+C:\Users\aranb\Downloads\Peliculas Completa\Peliculas\Flujo\obj\Debug\net8.0\Flujo.csproj.CopyComplete
+C:\Users\aranb\Downloads\Peliculas Completa\Peliculas\Flujo\obj\Debug\net8.0\Flujo.dll
+C:\Users\aranb\Downloads\Peliculas Completa\Peliculas\Flujo\obj\Debug\net8.0\refint\Flujo.dll
+C:\Users\aranb\Downloads\Peliculas Completa\Peliculas\Flujo\obj\Debug\net8.0\Flujo.pdb
+C:\Users\aranb\Downloads\Peliculas Completa\Peliculas\Flujo\obj\Debug\net8.0\ref\Flujo.dll
+C:\Users\aranb\Source\Repos\SC-701\caso-pr-ctico-2-grupobraynerpaw\Peliculas\Flujo\bin\Debug\net8.0\Flujo.deps.json
+C:\Users\aranb\Source\Repos\SC-701\caso-pr-ctico-2-grupobraynerpaw\Peliculas\Flujo\bin\Debug\net8.0\Flujo.dll
+C:\Users\aranb\Source\Repos\SC-701\caso-pr-ctico-2-grupobraynerpaw\Peliculas\Flujo\bin\Debug\net8.0\Flujo.pdb
+C:\Users\aranb\Source\Repos\SC-701\caso-pr-ctico-2-grupobraynerpaw\Peliculas\Flujo\bin\Debug\net8.0\Abstracciones.dll
+C:\Users\aranb\Source\Repos\SC-701\caso-pr-ctico-2-grupobraynerpaw\Peliculas\Flujo\bin\Debug\net8.0\Abstracciones.pdb
+C:\Users\aranb\Source\Repos\SC-701\caso-pr-ctico-2-grupobraynerpaw\Peliculas\Flujo\obj\Debug\net8.0\Flujo.csproj.AssemblyReference.cache
+C:\Users\aranb\Source\Repos\SC-701\caso-pr-ctico-2-grupobraynerpaw\Peliculas\Flujo\obj\Debug\net8.0\Flujo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aranb\Source\Repos\SC-701\caso-pr-ctico-2-grupobraynerpaw\Peliculas\Flujo\obj\Debug\net8.0\Flujo.AssemblyInfoInputs.cache
+C:\Users\aranb\Source\Repos\SC-701\caso-pr-ctico-2-grupobraynerpaw\Peliculas\Flujo\obj\Debug\net8.0\Flujo.AssemblyInfo.cs
+C:\Users\aranb\Source\Repos\SC-701\caso-pr-ctico-2-grupobraynerpaw\Peliculas\Flujo\obj\Debug\net8.0\Flujo.csproj.CoreCompileInputs.cache
+C:\Users\aranb\Source\Repos\SC-701\caso-pr-ctico-2-grupobraynerpaw\Peliculas\Flujo\obj\Debug\net8.0\Flujo.sourcelink.json
+C:\Users\aranb\Source\Repos\SC-701\caso-pr-ctico-2-grupobraynerpaw\Peliculas\Flujo\obj\Debug\net8.0\Flujo.csproj.CopyComplete
+C:\Users\aranb\Source\Repos\SC-701\caso-pr-ctico-2-grupobraynerpaw\Peliculas\Flujo\obj\Debug\net8.0\Flujo.dll
+C:\Users\aranb\Source\Repos\SC-701\caso-pr-ctico-2-grupobraynerpaw\Peliculas\Flujo\obj\Debug\net8.0\refint\Flujo.dll
+C:\Users\aranb\Source\Repos\SC-701\caso-pr-ctico-2-grupobraynerpaw\Peliculas\Flujo\obj\Debug\net8.0\Flujo.pdb
+C:\Users\aranb\Source\Repos\SC-701\caso-pr-ctico-2-grupobraynerpaw\Peliculas\Flujo\obj\Debug\net8.0\ref\Flujo.dll
+C:\Users\aranb\source\repos\SC-701\caso-pr-ctico-2-grupobraynerpaw\SC-701-PAG4-K\Peliculas\Flujo\bin\Debug\net8.0\Flujo.deps.json
+C:\Users\aranb\source\repos\SC-701\caso-pr-ctico-2-grupobraynerpaw\SC-701-PAG4-K\Peliculas\Flujo\bin\Debug\net8.0\Flujo.dll
+C:\Users\aranb\source\repos\SC-701\caso-pr-ctico-2-grupobraynerpaw\SC-701-PAG4-K\Peliculas\Flujo\bin\Debug\net8.0\Flujo.pdb
+C:\Users\aranb\source\repos\SC-701\caso-pr-ctico-2-grupobraynerpaw\SC-701-PAG4-K\Peliculas\Flujo\bin\Debug\net8.0\Abstracciones.dll
+C:\Users\aranb\source\repos\SC-701\caso-pr-ctico-2-grupobraynerpaw\SC-701-PAG4-K\Peliculas\Flujo\bin\Debug\net8.0\Abstracciones.pdb
+C:\Users\aranb\source\repos\SC-701\caso-pr-ctico-2-grupobraynerpaw\SC-701-PAG4-K\Peliculas\Flujo\obj\Debug\net8.0\Flujo.csproj.AssemblyReference.cache
+C:\Users\aranb\source\repos\SC-701\caso-pr-ctico-2-grupobraynerpaw\SC-701-PAG4-K\Peliculas\Flujo\obj\Debug\net8.0\Flujo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aranb\source\repos\SC-701\caso-pr-ctico-2-grupobraynerpaw\SC-701-PAG4-K\Peliculas\Flujo\obj\Debug\net8.0\Flujo.AssemblyInfoInputs.cache
+C:\Users\aranb\source\repos\SC-701\caso-pr-ctico-2-grupobraynerpaw\SC-701-PAG4-K\Peliculas\Flujo\obj\Debug\net8.0\Flujo.AssemblyInfo.cs
+C:\Users\aranb\source\repos\SC-701\caso-pr-ctico-2-grupobraynerpaw\SC-701-PAG4-K\Peliculas\Flujo\obj\Debug\net8.0\Flujo.csproj.CoreCompileInputs.cache
+C:\Users\aranb\source\repos\SC-701\caso-pr-ctico-2-grupobraynerpaw\SC-701-PAG4-K\Peliculas\Flujo\obj\Debug\net8.0\Flujo.sourcelink.json
+C:\Users\aranb\source\repos\SC-701\caso-pr-ctico-2-grupobraynerpaw\SC-701-PAG4-K\Peliculas\Flujo\obj\Debug\net8.0\Flujo.csproj.CopyComplete
+C:\Users\aranb\source\repos\SC-701\caso-pr-ctico-2-grupobraynerpaw\SC-701-PAG4-K\Peliculas\Flujo\obj\Debug\net8.0\Flujo.dll
+C:\Users\aranb\source\repos\SC-701\caso-pr-ctico-2-grupobraynerpaw\SC-701-PAG4-K\Peliculas\Flujo\obj\Debug\net8.0\refint\Flujo.dll
+C:\Users\aranb\source\repos\SC-701\caso-pr-ctico-2-grupobraynerpaw\SC-701-PAG4-K\Peliculas\Flujo\obj\Debug\net8.0\Flujo.pdb
+C:\Users\aranb\source\repos\SC-701\caso-pr-ctico-2-grupobraynerpaw\SC-701-PAG4-K\Peliculas\Flujo\obj\Debug\net8.0\ref\Flujo.dll
+C:\Users\aranb\source\repos\SC-701\caso-pr-ctico-2-grupobraynerpaw\SC-701-PAG4-K\Peliculas\Flujo\bin\Debug\net8.0\Flujo.runtimeconfig.json
+C:\Users\aranb\source\repos\SC-701\caso-pr-ctico-2-grupobraynerpaw\SC-701-PAG4-K\Peliculas\Flujo\obj\Debug\net8.0\Flujo.genruntimeconfig.cache
+C:\Users\aj199\Videos\Progra Web Avanzada\PROYECTO\final\SC-701-PAG4-K v2\SC-701-PAG4-K\Peliculas\Flujo\bin\Debug\net8.0\Flujo.deps.json
+C:\Users\aj199\Videos\Progra Web Avanzada\PROYECTO\final\SC-701-PAG4-K v2\SC-701-PAG4-K\Peliculas\Flujo\bin\Debug\net8.0\Flujo.runtimeconfig.json
+C:\Users\aj199\Videos\Progra Web Avanzada\PROYECTO\final\SC-701-PAG4-K v2\SC-701-PAG4-K\Peliculas\Flujo\bin\Debug\net8.0\Flujo.dll
+C:\Users\aj199\Videos\Progra Web Avanzada\PROYECTO\final\SC-701-PAG4-K v2\SC-701-PAG4-K\Peliculas\Flujo\bin\Debug\net8.0\Flujo.pdb
+C:\Users\aj199\Videos\Progra Web Avanzada\PROYECTO\final\SC-701-PAG4-K v2\SC-701-PAG4-K\Peliculas\Flujo\bin\Debug\net8.0\Abstracciones.dll
+C:\Users\aj199\Videos\Progra Web Avanzada\PROYECTO\final\SC-701-PAG4-K v2\SC-701-PAG4-K\Peliculas\Flujo\bin\Debug\net8.0\Abstracciones.pdb
+C:\Users\aj199\Videos\Progra Web Avanzada\PROYECTO\final\SC-701-PAG4-K v2\SC-701-PAG4-K\Peliculas\Flujo\obj\Debug\net8.0\Flujo.csproj.AssemblyReference.cache
+C:\Users\aj199\Videos\Progra Web Avanzada\PROYECTO\final\SC-701-PAG4-K v2\SC-701-PAG4-K\Peliculas\Flujo\obj\Debug\net8.0\Flujo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aj199\Videos\Progra Web Avanzada\PROYECTO\final\SC-701-PAG4-K v2\SC-701-PAG4-K\Peliculas\Flujo\obj\Debug\net8.0\Flujo.AssemblyInfoInputs.cache
+C:\Users\aj199\Videos\Progra Web Avanzada\PROYECTO\final\SC-701-PAG4-K v2\SC-701-PAG4-K\Peliculas\Flujo\obj\Debug\net8.0\Flujo.AssemblyInfo.cs
+C:\Users\aj199\Videos\Progra Web Avanzada\PROYECTO\final\SC-701-PAG4-K v2\SC-701-PAG4-K\Peliculas\Flujo\obj\Debug\net8.0\Flujo.csproj.CoreCompileInputs.cache
+C:\Users\aj199\Videos\Progra Web Avanzada\PROYECTO\final\SC-701-PAG4-K v2\SC-701-PAG4-K\Peliculas\Flujo\obj\Debug\net8.0\Flujo.csproj.Up2Date
+C:\Users\aj199\Videos\Progra Web Avanzada\PROYECTO\final\SC-701-PAG4-K v2\SC-701-PAG4-K\Peliculas\Flujo\obj\Debug\net8.0\Flujo.dll
+C:\Users\aj199\Videos\Progra Web Avanzada\PROYECTO\final\SC-701-PAG4-K v2\SC-701-PAG4-K\Peliculas\Flujo\obj\Debug\net8.0\refint\Flujo.dll
+C:\Users\aj199\Videos\Progra Web Avanzada\PROYECTO\final\SC-701-PAG4-K v2\SC-701-PAG4-K\Peliculas\Flujo\obj\Debug\net8.0\Flujo.pdb
+C:\Users\aj199\Videos\Progra Web Avanzada\PROYECTO\final\SC-701-PAG4-K v2\SC-701-PAG4-K\Peliculas\Flujo\obj\Debug\net8.0\Flujo.genruntimeconfig.cache
+C:\Users\aj199\Videos\Progra Web Avanzada\PROYECTO\final\SC-701-PAG4-K v2\SC-701-PAG4-K\Peliculas\Flujo\obj\Debug\net8.0\ref\Flujo.dll

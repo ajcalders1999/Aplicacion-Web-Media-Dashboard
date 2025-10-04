@@ -1,0 +1,93 @@
+﻿@model PeliculasWeb.Models.UsuarioModel
+
+@{
+    ViewData["Title"] = "Registro de Usuario";
+}
+
+@section Styles {
+    <style>
+        .form-container {
+            background-color: #111;
+            color: gold;
+            padding: 2rem;
+            border-radius: 8px;
+            box-shadow: 0 0 10px gold;
+            max-width: 600px;
+            margin: auto;
+        }
+
+        label {
+            color: gold;
+        }
+
+        .form-control {
+            background-color: #222;
+            color: gold;
+            border: 1px solid gold;
+        }
+
+        .btn-gold {
+            background-color: gold;
+            color: black;
+            border: none;
+        }
+
+            .btn-gold:hover {
+                background-color: #e6c200;
+                color: black;
+            }
+
+        h1 {
+            text-align: center;
+            margin-bottom: 1.5rem;
+        }
+
+        a {
+            color: gold;
+        }
+    </style>
+}
+
+<div class="form-container">
+    <h1>Registro de Usuario</h1>
+
+    <form asp-action="Registrarse" method="post">
+        @Html.AntiForgeryToken()
+
+        <div class="form-group mb-3">
+            <label for="NombreCompleto" class="form-label">Nombre Completo</label>
+            <input id="NombreCompleto" class="form-control" required />
+        </div>
+
+        <div class="form-group mb-3">
+            <label for="Apellido" class="form-label">Apellido</label>
+            <input id="Apellido" class="form-control" required />
+        </div>
+
+        <div class="form-group mb-3">
+            <label for="FechaNacimiento" class="form-label">Fecha de Nacimiento</label>
+            <input id="FechaNacimiento" type="date" class="form-control" required />
+        </div>
+
+        <div class="form-group mb-3">
+            <label asp-for="UserName" class="form-label"></label>
+            <input asp-for="UserName" class="form-control" />
+            <span asp-validation-for="UserName" class="text-danger"></span>
+        </div>
+
+        <div class="form-group mb-4">
+            <label asp-for="Password" class="form-label"></label>
+            <input asp-for="Password" type="password" class="form-control" />
+            <span asp-validation-for="Password" class="text-danger"></span>
+        </div>
+
+        <div class="d-flex justify-content-between">
+            <input type="submit" value="Registrarse" class="btn btn-gold" />
+            <a asp-action="Login" class="btn btn-link">Volver al Login</a>
+        </div>
+    </form>
+</div>
+
+@section Scripts {
+    @await Html.PartialAsync("_ValidationScriptsPartial")
+}

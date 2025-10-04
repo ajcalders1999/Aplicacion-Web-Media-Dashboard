@@ -1,0 +1,146 @@
+@model List<FavoritoViewModel>
+<style>
+    body {
+        background-color: #111; /* Fondo general oscuro */
+        color: #FFD700; /* Texto dorado */
+    }
+
+    .form-select {
+        background-color: #000;
+        color: #FFD700;
+        border: 1px solid #FFD700;
+    }
+
+    .card {
+        background-color: #000;
+        border: 1px solid #FFD700;
+        color: #FFD700;
+    }
+
+    .btn-warning {
+        background-color: #FFD700;
+        color: #000;
+        border: none;
+    }
+
+        .btn-warning:hover {
+            background-color: #e6c200;
+        }
+
+    .btn-outline-success,
+    .btn-success {
+        border-color: #FFD700;
+        color: #FFD700;
+        background-color: transparent;
+    }
+
+        .btn-outline-success:hover {
+            background-color: #FFD700;
+            color: #000;
+        }
+
+        .btn-success:disabled {
+            background-color: #FFD700;
+            color: #000;
+        }
+</style>
+@{
+    ViewData["Title"] = "Favoritos";
+}
+
+<h2 class="mb-4">⭐ Mis Favoritos</h2>
+
+@if (!Model.Any())
+{
+    <div class="alert alert-info">
+        No has agregado favoritos aún.
+    </div>
+}
+else
+{
+    <div class="row">
+        @foreach (var fav in Model)
+        {
+            <div class="col-md-3">
+                <div class="card mb-4 shadow-sm h-100">
+                    <img class="card-img-top" src="@fav.ImageURL" alt="Sin imagen" style="height: 300px; object-fit: cover;" />
+                    <div class="card-body d-flex flex-column">
+                        <h5 class="card-title">@fav.Title</h5>
+                        <p class="card-text">
+                            @(fav.Description?.Length > 100 ? fav.Description.Substring(0, 100) + "..." : fav.Description)
+                        </p>
+                        <!-- Solo para test -->
+                        <p><strong>ID real del favorito:</strong> @fav.Id</p>
+
+                        <p><strong>Fecha:</strong> @(fav.ReleaseDate?.ToString("yyyy-MM-dd") ?? "No disponible")</p>
+                        <p><strong>Tipo:</strong> @fav.Tipo</p>
+                        <p><strong>Tu Calificación:</strong> ⭐ @fav.Calificacion</p>
+                        <p><strong>Comentario:</strong> @fav.Comentario</p>
+                        <form onsubmit="guardarFavorito(this); return false;">
+                            <input type="hidden" name="Id" value="@fav.Id" />
+                            <input type="hidden" name="UsuarioId" value="@fav.UsuarioId" />
+                            <input type="hidden" name="ItemId" value="@fav.ItemId" />
+                            <input type="hidden" name="Tipo" value="@fav.Tipo" />
+
+                            <div class="mb-2">
+                                <label>Tu Calificación:</label>
+                                <input type="number" name="Calificacion" class="form-control" min="1" max="10" value="@fav.Calificacion" />
+                            </div>
+
+                            <div class="mb-2">
+                                <label>Comentario:</label>
+                                <textarea name="Comentario" class="form-control">@fav.Comentario</textarea>
+                            </div>
+
+                            <button type="submit" class="btn btn-primary w-100">💾 Guardar</button>
+                        </form>
+
+                        <!-- Botón para quitar de favoritos -->
+                        <form asp-controller="Favoritos" asp-action="DeleteConfirmed" method="post">
+                            <input type="hidden" name="id" value="@fav.Id" />
+                            <button type="submit" class="btn btn-outline-danger btn-sm w-100 mt-2">
+                                ❌ Quitar de Favoritos
+                            </button>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+}
+@section Scripts {
+    <script>
+        async function guardarFavorito(form) {
+            const data = {
+                id: parseInt(form.querySelector('input[name="Id"]').value),
+                usuarioId: parseInt(form.querySelector('input[name="UsuarioId"]').value),
+                itemId: parseInt(form.querySelector('input[name="ItemId"]').value),
+                tipo: form.querySelector('input[name="Tipo"]').value,
+                calificacion: parseInt(form.querySelector('input[name="Calificacion"]').value),
+                comentario: form.querySelector('textarea[name="Comentario"]').value
+            };
+
+            const response = await fetch("https://localhost:7244/api/favoritos", {
+                method: "PUT",
+                headers: {
+                    "Content-Type": "application/json"
+                },
+                body: JSON.stringify(data)
+            });
+
+            if (response.ok) {
+                location.reload(); // 🔄 esto recarga la página
+            } else {
+                alert("❌ Error al actualizar el favorito");
+            }
+        }
+    </script>
+}
+
+
+
+
+
+
+
+

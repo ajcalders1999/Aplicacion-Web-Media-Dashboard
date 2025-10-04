@@ -1,0 +1,32 @@
+﻿@model PeliculasWeb.Models.WatchlistViewModel
+
+@{
+    ViewData["Title"] = "Detalle de la Lista de Visualización";
+}
+
+<h2>Detalle del Ítem</h2>
+
+<div class="card mt-4">
+    <div class="card-body">
+        <dl class="row">
+            <dt class="col-sm-3">ID</dt>
+            <dd class="col-sm-9">@Model.Id</dd>
+
+            <dt class="col-sm-3">Usuario ID</dt>
+            <dd class="col-sm-9">@Model.UsuarioId</dd>
+
+            <dt class="col-sm-3">Pelicula/Serie ID</dt>
+            <dd class="col-sm-9">@Model.ItemId</dd>
+
+            <dt class="col-sm-3">Tipo</dt>
+            <dd class="col-sm-9">@Model.Tipo</dd>
+
+            <dt class="col-sm-3">Prioridad</dt>
+            <dd class="col-sm-9">@Model.Prioridad</dd>
+        </dl>
+
+        <a asp-action="Edit" asp-route-id="@Model.Id" class="btn btn-primary">Editar</a>
+        <a asp-action="Index" class="btn btn-secondary">Volver a la lista</a>
+    </div>
+</div>
+

@@ -1,0 +1,113 @@
+﻿@model PeliculasWeb.Models.Actor
+
+@{
+    ViewData["Title"] = "Eliminar Actor";
+}
+
+<h1 class="titulo">🗑️ Eliminar Actor</h1>
+
+<div class="alert-danger-custom">
+    ¿Estás seguro que deseas eliminar a <strong>@Model.Nombre @Model.Apellido</strong>?
+</div>
+
+<dl class="row detalles-actor">
+    <dt class="col-sm-3">Nacionalidad:</dt>
+    <dd class="col-sm-9">@Model.Nacionalidad</dd>
+
+    <dt class="col-sm-3">Biografía:</dt>
+    <dd class="col-sm-9">@Model.Biografia</dd>
+</dl>
+
+<form asp-action="Delete" method="post">
+    @Html.AntiForgeryToken()
+    <input type="hidden" asp-for="ActorId" />
+    <div class="d-flex gap-2">
+        <button type="submit" class="btn btn-danger">Eliminar</button>
+        <a asp-action="Index" class="btn btn-secondary">Cancelar</a>
+    </div>
+</form>
+
+@section Styles {
+    <style>
+        body {
+            background-color: #000;
+            color: #FFD700;
+            min-height: 100vh;
+        }
+
+        .titulo {
+            margin-bottom: 20px;
+            text-align: center;
+            font-weight: 700;
+        }
+
+        .alert-danger-custom {
+            background-color: #660000;
+            color: #FFD700;
+            border: 1px solid #cc0000;
+            padding: 15px;
+            border-radius: 6px;
+            max-width: 600px;
+            margin: 0 auto 2rem;
+            font-weight: 600;
+        }
+
+        .detalles-actor dt {
+            color: #FFD700;
+            font-weight: 600;
+        }
+
+        .detalles-actor dd {
+            margin-left: 0;
+            color: gold;
+            white-space: pre-wrap;
+        }
+
+        form {
+            max-width: 600px;
+            margin: 0 auto;
+        }
+
+        .btn-danger {
+            background-color: #cc0000;
+            border: none;
+            color: #FFD700;
+            font-weight: 700;
+            padding: 0.5rem 1.5rem;
+            border-radius: 4px;
+            transition: background-color 0.3s ease;
+        }
+
+            .btn-danger:hover {
+                background-color: #990000;
+                color: #FFD700;
+            }
+
+        .btn-secondary {
+            background-color: #222;
+            border: 1px solid #FFD700;
+            color: #FFD700;
+            font-weight: 600;
+            padding: 0.5rem 1.5rem;
+            border-radius: 4px;
+            text-decoration: none;
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+            transition: background-color 0.3s ease, color 0.3s ease;
+        }
+
+            .btn-secondary:hover {
+                background-color: #ffd700cc;
+                color: black;
+                border-color: #ffd700cc;
+                text-decoration: none;
+            }
+
+        .d-flex.gap-2 {
+            gap: 1rem;
+            justify-content: center;
+            margin-top: 1rem;
+        }
+    </style>
+}

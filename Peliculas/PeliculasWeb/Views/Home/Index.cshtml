@@ -1,0 +1,24 @@
+﻿@model PeliculasWeb.Models.HomeViewModel
+
+<h1>Prueba directa de renderizado</h1>
+
+<p>@DateTime.Now</p>
+
+@if (Model.Peliculas != null)
+{
+    <p>Películas: @Model.Peliculas.Count</p>
+
+    @foreach (var peli in Model.Peliculas)
+    {
+        <div>
+            <strong>@peli.Title</strong> - @peli.Rating
+        </div>
+    }
+}
+else
+{
+    <p>❌ Model.Peliculas es null</p>
+}
+
+
+

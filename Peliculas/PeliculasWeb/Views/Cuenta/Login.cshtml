@@ -1,0 +1,116 @@
+﻿@model PeliculasWeb.Models.LoginViewModel
+
+<!-- Estilos personalizados -->
+<style>
+    body {
+        background-color: #111; /* fondo negro */
+        color: gold;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        padding-top: 60px;
+    }
+
+    h2 {
+        color: gold;
+        text-align: center;
+        margin-bottom: 30px;
+    }
+
+    .login-container {
+        max-width: 400px;
+        margin: auto;
+        background-color: #222; /* gris oscuro */
+        padding: 30px;
+        border-radius: 12px;
+        box-shadow: 0 0 15px gold;
+    }
+
+    .form-label {
+        color: gold;
+    }
+
+    .form-control {
+        background-color: #333;
+        color: gold;
+        border: 1px solid gold;
+    }
+
+        .form-control:focus {
+            background-color: #444;
+            color: gold;
+            border-color: gold;
+            box-shadow: 0 0 8px gold;
+        }
+
+    .btn-primary {
+        background-color: gold;
+        color: black;
+        border: none;
+        font-weight: bold;
+        transition: all 0.3s ease;
+    }
+
+        .btn-primary:hover {
+            background-color: #e6c200;
+        }
+
+    .btn-register {
+        background-color: transparent;
+        border: 1px solid gold;
+        color: gold;
+        margin-top: 15px;
+        width: 100%;
+        font-weight: bold;
+        padding: 0.5rem;
+        border-radius: 6px;
+        cursor: pointer;
+        transition: all 0.3s ease;
+    }
+
+        .btn-register:hover {
+            background-color: gold;
+            color: black;
+            border-color: gold;
+        }
+
+    .text-danger {
+        color: #ff4d4d;
+    }
+
+    .welcome-message {
+        text-align: center;
+        font-size: 1.2rem;
+        margin-bottom: 20px;
+        color: gold;
+    }
+</style>
+
+<div class="login-container">
+    <div class="welcome-message">
+        ¡Bienvenido a <strong>PSdb</strong>! ✨
+    </div>
+
+    <h2>Iniciar Sesión</h2>
+
+    <form asp-action="Login" method="post">
+        <div class="mb-3">
+            <label asp-for="UserName" class="form-label"></label>
+            <input asp-for="UserName" class="form-control" />
+            <span asp-validation-for="UserName" class="text-danger"></span>
+        </div>
+        <div class="mb-3">
+            <label asp-for="Password" class="form-label"></label>
+            <input asp-for="Password" class="form-control" type="password" />
+            <span asp-validation-for="Password" class="text-danger"></span>
+        </div>
+        <button type="submit" class="btn btn-primary w-100">Entrar</button>
+
+        <br />
+        <br />
+        <br />
+        <p>
+            <a asp-action="Registrarse" class="btn-register">Registrarse</a>
+        </p>
+    </form>
+
+
+</div>

@@ -1,0 +1,51 @@
+﻿@model PeliculasWeb.Models.FavoritoViewModel
+
+<h2>Agregar a Favoritos</h2>
+
+<form asp-action="Create" method="post">
+    <div class="mb-3">
+        <label asp-for="ItemId" class="form-label">ID de la Película o Serie</label>
+        <input asp-for="ItemId" class="form-control" />
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="Title" class="form-label">Título</label>
+        <input asp-for="Title" class="form-control" />
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="ImageURL" class="form-label">Imagen (URL)</label>
+        <input asp-for="ImageURL" class="form-control" />
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="Description" class="form-label">Descripción</label>
+        <textarea asp-for="Description" class="form-control" rows="3"></textarea>
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="ReleaseDate" class="form-label">Fecha de Lanzamiento</label>
+        <input asp-for="ReleaseDate" class="form-control" type="date" />
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="Calificacion" class="form-label">Tu Calificación</label>
+        <input asp-for="Calificacion" class="form-control" />
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="Comentario" class="form-label">Comentario</label>
+        <textarea asp-for="Comentario" class="form-control" rows="3"></textarea>
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="Tipo" class="form-label">Tipo (Movie / Series)</label>
+        <input asp-for="Tipo" class="form-control" />
+    </div>
+
+    <button type="submit" class="btn btn-primary">Guardar</button>
+    <a href="/Favoritos" class="btn btn-secondary">Cancelar</a>
+</form>
+
+
+

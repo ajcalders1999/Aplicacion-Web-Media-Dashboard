@@ -1,0 +1,51 @@
+﻿@model PeliculasWeb.Models.WatchlistViewModel
+
+@{
+    ViewData["Title"] = "Agregar a la Lista de Visualización";
+}
+
+<h2>Agregar a la Lista de Visualización</h2>
+
+<form asp-action="Create" method="post">
+    <div class="mb-3">
+        <label asp-for="ItemId" class="form-label"></label>
+        <input asp-for="ItemId" class="form-control" />
+        <span asp-validation-for="ItemId" class="text-danger"></span>
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="Tipo" class="form-label"></label>
+        <select asp-for="Tipo" class="form-select">
+            <option value="Pelicula">Película</option>
+            <option value="Serie">Serie</option>
+        </select>
+        <span asp-validation-for="Tipo" class="text-danger"></span>
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="Prioridad" class="form-label"></label>
+        <select asp-for="Prioridad" class="form-select">
+            <option value="Alta">Alta</option>
+            <option value="Media">Media</option>
+            <option value="Baja">Baja</option>
+        </select>
+        <span asp-validation-for="Prioridad" class="text-danger"></span>
+    </div>
+
+    <button type="submit" class="btn btn-success">Guardar</button>
+    <a asp-action="Index" class="btn btn-secondary">Cancelar</a>
+
+    <div class="mb-3">
+        <label asp-for="Prioridad" class="form-label"></label>
+        <input asp-for="Prioridad" class="form-control" />
+        <span asp-validation-for="Prioridad" class="text-danger"></span>
+    </div>
+
+</form>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}
+

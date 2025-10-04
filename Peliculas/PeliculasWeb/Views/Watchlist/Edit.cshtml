@@ -1,0 +1,53 @@
+﻿@model PeliculasWeb.Models.WatchlistViewModel
+
+@{
+    ViewData["Title"] = "Editar ítem de la Lista de Visualización";
+}
+
+<h2>Editar ítem de la Lista</h2>
+
+<form asp-action="Edit" method="post">
+    <input type="hidden" asp-for="Id" />
+
+    <div class="mb-3">
+        <label asp-for="UsuarioId" class="form-label"></label>
+        <input asp-for="UsuarioId" class="form-control" />
+        <span asp-validation-for="UsuarioId" class="text-danger"></span>
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="ItemId" class="form-label"></label>
+        <input asp-for="ItemId" class="form-control" />
+        <span asp-validation-for="ItemId" class="text-danger"></span>
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="Tipo" class="form-label"></label>
+        <select asp-for="Tipo" class="form-select">
+            <option value="Pelicula" selected="@Model.Tipo == " Pelicula"">Película</option>
+            <option value="Serie" selected="@Model.Tipo == " Serie"">Serie</option>
+        </select>
+        <span asp-validation-for="Tipo" class="text-danger"></span>
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="Prioridad" class="form-label"></label>
+        <select asp-for="Prioridad" class="form-select">
+            <option value="1" selected="@(Model.Prioridad == 1)">Alta</option>
+            <option value="2" selected="@(Model.Prioridad == 2)">Media</option>
+            <option value="3" selected="@(Model.Prioridad == 3)">Baja</option>
+        </select>
+        <span asp-validation-for="Prioridad" class="text-danger"></span>
+    </div>
+
+    <button type="submit" class="btn btn-primary">Guardar Cambios</button>
+    <a asp-action="Index" class="btn btn-secondary">Cancelar</a>
+
+</form>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}
+

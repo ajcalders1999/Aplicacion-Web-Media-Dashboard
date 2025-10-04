@@ -1,0 +1,23 @@
+﻿@model PeliculasWeb.Models.FavoritoViewModel
+
+<h2>Editar Favorito</h2>
+
+<form asp-action="Edit" method="post">
+    <input type="hidden" asp-for="Id" />
+
+    <div class="mb-3">
+        <label asp-for="Comentario" class="form-label">Comentario</label>
+        <textarea asp-for="Comentario" class="form-control" rows="3"></textarea>
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="Calificacion" class="form-label">Tu Calificación</label>
+        <input asp-for="Calificacion" class="form-control" />
+    </div>
+
+    <button type="submit" class="btn btn-primary">Guardar cambios</button>
+    <a href="/Favoritos" class="btn btn-secondary">Cancelar</a>
+</form>
+
+
+

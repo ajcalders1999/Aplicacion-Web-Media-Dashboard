@@ -1,0 +1,153 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = PeliculasWeb
+build_property.RootNamespace = PeliculasWeb
+build_property.ProjectDir = C:\Users\aj199\Videos\Progra Web Avanzada\PROYECTO\final\SC-701-PAG4-K v2\SC-701-PAG4-K\Peliculas\PeliculasWeb\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\aj199\Videos\Progra Web Avanzada\PROYECTO\final\SC-701-PAG4-K v2\SC-701-PAG4-K\Peliculas\PeliculasWeb
+build_property._RazorSourceGeneratorDebug = 
+build_property.EffectiveAnalysisLevelStyle = 8.0
+build_property.EnableCodeStyleSeverity = 
+
+[C:/Users/aj199/Videos/Progra Web Avanzada/PROYECTO/final/SC-701-PAG4-K v2/SC-701-PAG4-K/Peliculas/PeliculasWeb/Views/Actores/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWN0b3Jlc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/aj199/Videos/Progra Web Avanzada/PROYECTO/final/SC-701-PAG4-K v2/SC-701-PAG4-K/Peliculas/PeliculasWeb/Views/Actores/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWN0b3Jlc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/aj199/Videos/Progra Web Avanzada/PROYECTO/final/SC-701-PAG4-K v2/SC-701-PAG4-K/Peliculas/PeliculasWeb/Views/Actores/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWN0b3Jlc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/aj199/Videos/Progra Web Avanzada/PROYECTO/final/SC-701-PAG4-K v2/SC-701-PAG4-K/Peliculas/PeliculasWeb/Views/Actores/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWN0b3Jlc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/aj199/Videos/Progra Web Avanzada/PROYECTO/final/SC-701-PAG4-K v2/SC-701-PAG4-K/Peliculas/PeliculasWeb/Views/Actores/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWN0b3Jlc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/aj199/Videos/Progra Web Avanzada/PROYECTO/final/SC-701-PAG4-K v2/SC-701-PAG4-K/Peliculas/PeliculasWeb/Views/Categorias/GenerosPeliculas.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmlhc1xHZW5lcm9zUGVsaWN1bGFzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/aj199/Videos/Progra Web Avanzada/PROYECTO/final/SC-701-PAG4-K v2/SC-701-PAG4-K/Peliculas/PeliculasWeb/Views/Categorias/GenerosSeries.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmlhc1xHZW5lcm9zU2VyaWVzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/aj199/Videos/Progra Web Avanzada/PROYECTO/final/SC-701-PAG4-K v2/SC-701-PAG4-K/Peliculas/PeliculasWeb/Views/Cuenta/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VlbnRhXExvZ2luLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/aj199/Videos/Progra Web Avanzada/PROYECTO/final/SC-701-PAG4-K v2/SC-701-PAG4-K/Peliculas/PeliculasWeb/Views/Cuenta/Registrarse.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VlbnRhXFJlZ2lzdHJhcnNlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/aj199/Videos/Progra Web Avanzada/PROYECTO/final/SC-701-PAG4-K v2/SC-701-PAG4-K/Peliculas/PeliculasWeb/Views/Favoritos/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmF2b3JpdG9zXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/aj199/Videos/Progra Web Avanzada/PROYECTO/final/SC-701-PAG4-K v2/SC-701-PAG4-K/Peliculas/PeliculasWeb/Views/Favoritos/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmF2b3JpdG9zXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/aj199/Videos/Progra Web Avanzada/PROYECTO/final/SC-701-PAG4-K v2/SC-701-PAG4-K/Peliculas/PeliculasWeb/Views/Favoritos/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmF2b3JpdG9zXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/aj199/Videos/Progra Web Avanzada/PROYECTO/final/SC-701-PAG4-K v2/SC-701-PAG4-K/Peliculas/PeliculasWeb/Views/Favoritos/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmF2b3JpdG9zXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/aj199/Videos/Progra Web Avanzada/PROYECTO/final/SC-701-PAG4-K v2/SC-701-PAG4-K/Peliculas/PeliculasWeb/Views/Favoritos/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmF2b3JpdG9zXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/aj199/Videos/Progra Web Avanzada/PROYECTO/final/SC-701-PAG4-K v2/SC-701-PAG4-K/Peliculas/PeliculasWeb/Views/Generos/Peliculas.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2VuZXJvc1xQZWxpY3VsYXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/aj199/Videos/Progra Web Avanzada/PROYECTO/final/SC-701-PAG4-K v2/SC-701-PAG4-K/Peliculas/PeliculasWeb/Views/Generos/Series.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2VuZXJvc1xTZXJpZXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/aj199/Videos/Progra Web Avanzada/PROYECTO/final/SC-701-PAG4-K v2/SC-701-PAG4-K/Peliculas/PeliculasWeb/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/aj199/Videos/Progra Web Avanzada/PROYECTO/final/SC-701-PAG4-K v2/SC-701-PAG4-K/Peliculas/PeliculasWeb/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/aj199/Videos/Progra Web Avanzada/PROYECTO/final/SC-701-PAG4-K v2/SC-701-PAG4-K/Peliculas/PeliculasWeb/Views/Peliculas/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVsaWN1bGFzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/aj199/Videos/Progra Web Avanzada/PROYECTO/final/SC-701-PAG4-K v2/SC-701-PAG4-K/Peliculas/PeliculasWeb/Views/Series/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VyaWVzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/aj199/Videos/Progra Web Avanzada/PROYECTO/final/SC-701-PAG4-K v2/SC-701-PAG4-K/Peliculas/PeliculasWeb/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/aj199/Videos/Progra Web Avanzada/PROYECTO/final/SC-701-PAG4-K v2/SC-701-PAG4-K/Peliculas/PeliculasWeb/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/aj199/Videos/Progra Web Avanzada/PROYECTO/final/SC-701-PAG4-K v2/SC-701-PAG4-K/Peliculas/PeliculasWeb/Views/Visualizaciones/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmlzdWFsaXphY2lvbmVzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/aj199/Videos/Progra Web Avanzada/PROYECTO/final/SC-701-PAG4-K v2/SC-701-PAG4-K/Peliculas/PeliculasWeb/Views/Watchlist/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV2F0Y2hsaXN0XENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/aj199/Videos/Progra Web Avanzada/PROYECTO/final/SC-701-PAG4-K v2/SC-701-PAG4-K/Peliculas/PeliculasWeb/Views/Watchlist/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV2F0Y2hsaXN0XERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/aj199/Videos/Progra Web Avanzada/PROYECTO/final/SC-701-PAG4-K v2/SC-701-PAG4-K/Peliculas/PeliculasWeb/Views/Watchlist/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV2F0Y2hsaXN0XERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/aj199/Videos/Progra Web Avanzada/PROYECTO/final/SC-701-PAG4-K v2/SC-701-PAG4-K/Peliculas/PeliculasWeb/Views/Watchlist/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV2F0Y2hsaXN0XEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/aj199/Videos/Progra Web Avanzada/PROYECTO/final/SC-701-PAG4-K v2/SC-701-PAG4-K/Peliculas/PeliculasWeb/Views/Watchlist/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV2F0Y2hsaXN0XEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/aj199/Videos/Progra Web Avanzada/PROYECTO/final/SC-701-PAG4-K v2/SC-701-PAG4-K/Peliculas/PeliculasWeb/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/aj199/Videos/Progra Web Avanzada/PROYECTO/final/SC-701-PAG4-K v2/SC-701-PAG4-K/Peliculas/PeliculasWeb/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/aj199/Videos/Progra Web Avanzada/PROYECTO/final/SC-701-PAG4-K v2/SC-701-PAG4-K/Peliculas/PeliculasWeb/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-jy5l66lm2b

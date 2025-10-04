@@ -1,0 +1,102 @@
+﻿@model PeliculasWeb.Models.Actor
+
+@{
+    ViewData["Title"] = "Detalles del Actor";
+}
+
+<h1 class="titulo">📌 Detalles del Actor</h1>
+
+<div class="detalle-box">
+    <dl class="row">
+        <dt class="col-sm-3">Nombre:</dt>
+        <dd class="col-sm-9">@Model.Nombre</dd>
+
+        <dt class="col-sm-3">Apellido:</dt>
+        <dd class="col-sm-9">@Model.Apellido</dd>
+
+        <dt class="col-sm-3">Nacionalidad:</dt>
+        <dd class="col-sm-9">@Model.Nacionalidad</dd>
+
+        <dt class="col-sm-3">Biografía:</dt>
+        <dd class="col-sm-9" style="white-space: pre-wrap;">@Model.Biografia</dd>
+    </dl>
+
+    <a asp-action="Edit" asp-route-id="@Model.ActorId" class="btn btn-dorado">✏️ Editar</a>
+    <a asp-action="Index" class="btn btn-negro">🔙 Volver</a>
+</div>
+
+@section Styles {
+    <style>
+        body {
+            background-color: #000;
+            color: #FFD700;
+            min-height: 100vh;
+        }
+
+        .titulo {
+            margin-bottom: 20px;
+            text-align: center;
+            font-weight: 700;
+        }
+
+        .detalle-box {
+            padding: 20px;
+            background-color: #111;
+            border-radius: 8px;
+            box-shadow: 0 0 15px #FFD700;
+            max-width: 700px;
+            margin: 0 auto 3rem;
+        }
+
+        dt {
+            color: #FFD700;
+            font-weight: 700;
+        }
+
+        dd {
+            color: gold;
+            margin-left: 0;
+            white-space: pre-wrap;
+        }
+
+        .btn-dorado, .btn-negro {
+            padding: 0.5rem 1.5rem;
+            border-radius: 5px;
+            font-weight: 600;
+            text-decoration: none;
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+            margin-top: 1rem;
+            transition: background-color 0.3s ease, color 0.3s ease;
+            cursor: pointer;
+            user-select: none;
+        }
+
+        .btn-dorado {
+            background-color: #FFD700;
+            color: black;
+            border: none;
+            margin-right: 10px;
+        }
+
+            .btn-dorado:hover {
+                background-color: #e6c200;
+                color: black;
+                text-decoration: none;
+            }
+
+        .btn-negro {
+            background-color: #222;
+            color: #FFD700;
+            border: 1px solid #FFD700;
+        }
+
+            .btn-negro:hover {
+                background-color: #ffd700cc;
+                color: black;
+                border-color: #ffd700cc;
+                text-decoration: none;
+            }
+    </style>
+}

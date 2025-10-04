@@ -1,0 +1,22 @@
+﻿@model PeliculasWeb.Models.FavoritoViewModel
+
+<h2>Detalles del Favorito</h2>
+
+<div class="card mb-4 shadow-sm">
+    <img src="@Model.ImageURL" class="card-img-top" style="height: 300px; object-fit: cover;" />
+    <div class="card-body">
+        <h5 class="card-title">@Model.Title</h5>
+        <p class="card-text">
+            @Model.Description
+        </p>
+        <p><strong>Fecha de estreno:</strong> @(Model.ReleaseDate?.ToString("yyyy-MM-dd") ?? "No disponible")</p>
+        <p><strong>Tipo:</strong> @Model.Tipo</p>
+        <p><strong>Tu Calificación:</strong> ⭐ @Model.Calificacion</p>
+        <p><strong>Comentario:</strong> @Model.Comentario</p>
+    </div>
+</div>
+
+<a href="/Favoritos" class="btn btn-secondary">Volver</a>
+
+
+    

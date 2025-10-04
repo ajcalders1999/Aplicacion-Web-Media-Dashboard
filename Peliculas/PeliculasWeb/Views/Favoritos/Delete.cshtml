@@ -1,0 +1,21 @@
+﻿@model PeliculasWeb.Models.FavoritoViewModel
+
+<h2>Eliminar Favorito</h2>
+
+<div class="alert alert-warning">
+    <p>¿Estás seguro que deseas eliminar <strong>@Model.Title</strong> de tus favoritos?</p>
+</div>
+
+<div class="card mb-4" style="max-width: 600px;">
+    <img src="@Model." class="card-img-top" alt="Imagen no disponible" style="height: 300px; object-fit: cover;" />
+    <div class="card-body">
+        <p><strong>Comentario:</strong> @Model.Comentario</p>
+        <p><strong>Mi Calificación:</strong> ⭐ @Model.Calificacion</p>
+
+        <form asp-action="Delete" method="post">
+            <input type="hidden" asp-for="Id" />
+            <button type="submit" class="btn btn-danger">Sí, eliminar</button>
+            <a href="/Favoritos" class="btn btn-secondary">Cancelar</a>
+        </form>
+    </div>
+</div>

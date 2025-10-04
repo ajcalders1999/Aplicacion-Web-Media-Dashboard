@@ -1,0 +1,22 @@
+﻿@model List<PeliculasWeb.Models.GeneroViewModel>
+
+
+@{
+    ViewData["Title"] = "Géneros de Películas";
+}
+
+<h2 class="my-4">🎬 Géneros de Películas</h2>
+
+<div class="row">
+    @foreach (var genero in Model)
+    {
+        <div class="col-md-3 mb-4">
+            <div class="card shadow-sm h-100">
+                <div class="card-body text-center">
+                    <h5 class="card-title">@genero.Nombre</h5>
+                </div>
+            </div>
+        </div>
+    }
+</div>
+

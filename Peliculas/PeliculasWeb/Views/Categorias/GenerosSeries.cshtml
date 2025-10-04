@@ -1,0 +1,17 @@
+﻿@model IEnumerable<Peliculas.Abstractions.Modelos.Genero>
+
+@{
+    ViewData["Title"] = "Géneros de Series";
+}
+
+<h2>Géneros de Series</h2>
+
+<ul class="list-group mt-4">
+    @foreach (var genero in Model)
+    {
+        <li class="list-group-item d-flex justify-content-between align-items-center">
+            @genero.Nombre
+            <a href="/Series/PorGenero?idGenero=@genero.Id" class="btn btn-sm btn-primary">Ver Series</a>
+        </li>
+    }
+</ul>

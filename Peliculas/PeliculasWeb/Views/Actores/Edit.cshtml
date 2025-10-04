@@ -1,0 +1,131 @@
+﻿@model PeliculasWeb.Models.Actor
+
+@{
+    ViewData["Title"] = "Editar Actor";
+}
+
+<h1 class="titulo">✏️ Editar Actor</h1>
+
+<form asp-action="Edit" method="post" class="formulario-actor">
+    @Html.AntiForgeryToken()
+
+    <input type="hidden" asp-for="ActorId" />
+
+    <div class="form-group mb-3">
+        <label asp-for="Nombre"></label>
+        <input asp-for="Nombre" class="form-control" />
+        <span asp-validation-for="Nombre" class="text-danger"></span>
+    </div>
+
+    <div class="form-group mb-3">
+        <label asp-for="Apellido"></label>
+        <input asp-for="Apellido" class="form-control" />
+        <span asp-validation-for="Apellido" class="text-danger"></span>
+    </div>
+
+    <div class="form-group mb-3">
+        <label asp-for="Nacionalidad"></label>
+        <input asp-for="Nacionalidad" class="form-control" />
+        <span asp-validation-for="Nacionalidad" class="text-danger"></span>
+    </div>
+
+    <div class="form-group mb-4">
+        <label asp-for="Biografia"></label>
+        <textarea asp-for="Biografia" class="form-control" rows="4"></textarea>
+        <span asp-validation-for="Biografia" class="text-danger"></span>
+    </div>
+
+    <div class="form-group botones d-flex justify-content-between">
+        <button type="submit" class="btn btn-dorado">Guardar</button>
+        <a asp-action="Index" class="btn btn-negro">Cancelar</a>
+    </div>
+</form>
+
+@section Styles {
+    <style>
+        body {
+            background-color: #000;
+            color: #FFD700;
+            min-height: 100vh;
+        }
+
+        .titulo {
+            text-align: center;
+            margin-bottom: 20px;
+            font-weight: 700;
+        }
+
+        .formulario-actor {
+            background-color: #111;
+            padding: 25px;
+            border-radius: 8px;
+            box-shadow: 0 0 15px #FFD700;
+            max-width: 600px;
+            margin: 0 auto 3rem;
+            color: gold;
+        }
+
+        .form-control {
+            background-color: #222;
+            color: #FFD700;
+            border: 1px solid #FFD700;
+        }
+
+            .form-control:focus {
+                background-color: #333;
+                border-color: #ffcc00;
+                color: #FFD700;
+                box-shadow: 0 0 5px #ffcc00;
+                outline: none;
+            }
+
+        label {
+            font-weight: 600;
+            color: #FFD700;
+        }
+
+        .btn-dorado {
+            background-color: #FFD700;
+            color: black;
+            border: none;
+            padding: 0.5rem 1.5rem;
+            font-weight: 600;
+            border-radius: 4px;
+            transition: background-color 0.3s ease;
+        }
+
+            .btn-dorado:hover {
+                background-color: #e6c200;
+                color: black;
+            }
+
+        .btn-negro {
+            background-color: #222;
+            color: #FFD700;
+            border: 1px solid #FFD700;
+            padding: 0.5rem 1.5rem;
+            font-weight: 600;
+            border-radius: 4px;
+            text-decoration: none;
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+            transition: background-color 0.3s ease, color 0.3s ease;
+        }
+
+            .btn-negro:hover {
+                background-color: #ffd700cc;
+                color: black;
+                border-color: #ffd700cc;
+                text-decoration: none;
+            }
+
+        .botones {
+            margin-top: 15px;
+        }
+    </style>
+}
+
+@section Scripts {
+    @await Html.PartialAsync("_ValidationScriptsPartial")
+}

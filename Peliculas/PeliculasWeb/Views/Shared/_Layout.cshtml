@@ -1,0 +1,138 @@
+﻿@{
+    var usuarioNombre = Context.Session.GetString("NombreUsuario");
+    var usuarioId = Context.Session.GetInt32("UsuarioId");
+}
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    @RenderSection("Styles", required: false)
+
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>@ViewData["Title"] - PeliculasWeb</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet" />
+    <style>
+        body {
+            background-color: #111;
+            color: gold;
+            min-height: 100vh;
+            display: flex;
+            flex-direction: column;
+        }
+
+        .navbar {
+            background-color: #000;
+            box-shadow: 0 2px 8px rgba(255, 215, 0, 0.5);
+        }
+
+        .navbar-brand, .dropdown-toggle {
+            font-weight: 700;
+            font-size: 1.5rem;
+            color: gold !important;
+            letter-spacing: 2px;
+            cursor: pointer;
+        }
+
+            .navbar-brand:hover, .dropdown-toggle:hover {
+                color: #ffd700cc !important;
+            }
+
+        .dropdown-menu {
+            background-color: #000;
+            border: none;
+            padding: 0;
+        }
+
+        .dropdown-item {
+            color: gold;
+            font-weight: 600;
+            padding: 10px 20px;
+        }
+
+            .dropdown-item:hover {
+                background-color: #ffd700cc;
+                color: black;
+            }
+
+        .navbar-text {
+            color: gold;
+            font-weight: 600;
+            font-style: italic;
+        }
+
+        .btn-outline-light {
+            color: gold;
+            border-color: gold;
+            font-weight: 600;
+            transition: background-color 0.3s ease, color 0.3s ease;
+        }
+
+            .btn-outline-light:hover {
+                background-color: gold;
+                color: black;
+                border-color: gold;
+            }
+
+        .container.mt-4 {
+            flex: 1;
+        }
+
+        footer {
+            text-align: center;
+            padding: 1rem 0;
+            background-color: #000;
+            color: gold;
+            font-weight: 500;
+            letter-spacing: 1px;
+            box-shadow: inset 0 1px 0 rgba(255, 215, 0, 0.3);
+        }
+    </style>
+</head>
+<body>
+    <nav class="navbar">
+        <div class="container d-flex justify-content-between align-items-center">
+            <div class="dropdown">
+                <span class="navbar-brand dropdown-toggle" id="dropdownMenuButton" data-bs-toggle="dropdown" aria-expanded="false">
+                    PSbd
+                </span>
+                <ul class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+                    @if (usuarioId != null)
+                    {
+                        <li><a class="dropdown-item" asp-controller="Peliculas" asp-action="Index">Peliculas</a></li>
+                        <li><a class="dropdown-item" asp-controller="Series" asp-action="Index">Series</a></li>
+                        <li><a class="dropdown-item" asp-controller="Favoritos" asp-action="Index">Favoritos</a></li>
+                        <li><a class="dropdown-item" asp-controller="Watchlist" asp-action="Index">Lista de Visualización</a></li>
+                        <li><a class="dropdown-item" asp-controller="Actores" asp-action="Index">Actores</a></li>
+                    }
+                </ul>
+            </div>
+
+            <div class="d-flex align-items-center">
+                @if (!string.IsNullOrEmpty(usuarioNombre))
+                {
+                    <span class="navbar-text me-3">
+                        Bienvenido, @usuarioNombre
+                    </span>
+                    <a class="btn btn-outline-light btn-sm" asp-controller="Cuenta" asp-action="Logout">Cerrar sesión</a>
+                }
+                else
+                {
+                    <a class="btn btn-outline-light btn-sm" asp-controller="Cuenta" asp-action="Login">Iniciar sesión</a>
+                }
+            </div>
+        </div>
+    </nav>
+
+    <div class="container mt-4">
+        @RenderBody()
+    </div>
+
+    <footer>
+        © 2025 PSbd - Tu portal de películas y series
+    </footer>
+
+    @RenderSection("Scripts", required: false)
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>

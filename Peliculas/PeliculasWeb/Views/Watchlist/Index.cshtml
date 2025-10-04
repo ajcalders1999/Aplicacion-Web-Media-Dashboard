@@ -1,0 +1,137 @@
+﻿@model List<WatchlistViewModel>
+<style>
+    body {
+        background-color: #111; /* Fondo general oscuro */
+        color: #FFD700; /* Texto dorado */
+    }
+
+    .form-select {
+        background-color: #000;
+        color: #FFD700;
+        border: 1px solid #FFD700;
+    }
+
+    .card {
+        background-color: #000;
+        border: 1px solid #FFD700;
+        color: #FFD700;
+    }
+
+    .btn-warning {
+        background-color: #FFD700;
+        color: #000;
+        border: none;
+    }
+
+        .btn-warning:hover {
+            background-color: #e6c200;
+        }
+
+    .btn-outline-success,
+    .btn-success {
+        border-color: #FFD700;
+        color: #FFD700;
+        background-color: transparent;
+    }
+
+        .btn-outline-success:hover {
+            background-color: #FFD700;
+            color: #000;
+        }
+
+        .btn-success:disabled {
+            background-color: #FFD700;
+            color: #000;
+        }
+</style>
+@{
+    ViewData["Title"] = "Lista de Visualización";
+}
+
+<h2 class="mb-4">📺 Mi Lista de Visualización</h2>
+
+<a asp-action="Create" class="btn btn-success mb-3">Agregar a la lista</a>
+
+@if (!Model.Any())
+{
+    <div class="alert alert-info">No hay elementos en la lista de visualización.</div>
+}
+else
+{
+    <div class="row">
+        @foreach (var item in Model)
+        {
+            <div class="col-md-3">
+                <div class="card mb-4 shadow-sm h-100">
+                    <img src="@item.ImageURL" class="card-img-top" alt="Imagen no disponible" style="height: 300px; object-fit: cover;" />
+                    <div class="card-body d-flex flex-column">
+                        <h5 class="card-title">@item.Title</h5>
+                        <p class="card-text">
+                            @(item.Description?.Length > 500 ? item.Description.Substring(0, 500) + "..." : item.Description)
+                        </p>
+                        <p><strong>Fecha:</strong> @(item.ReleaseDate ?? "No disponible")</p>
+                        <p><strong>ID:</strong> @item.Id</p>
+                        <p><strong>Tipo:</strong> @item.Tipo</p>
+                        <p><strong>Prioridad actual:</strong> @item.Prioridad</p>
+
+                        <form asp-action="Edit" method="post">
+                            <input type="hidden" name="Id" value="@item.Id" />
+                            <input type="hidden" name="UsuarioId" value="@item.UsuarioId" />
+                            <input type="hidden" name="ItemId" value="@item.ItemId" />
+                            <input type="hidden" name="Tipo" value="@item.Tipo" />
+
+                        <div class="mb-2">
+                                <label>Cambiar Prioridad:</label>
+                             <select id="prioridad-@item.Id" class="form-control">
+                                    <option value="1" selected="@(item.Prioridad == 1)">Alta</option>
+                                    <option value="2" selected="@(item.Prioridad == 2)">Media</option>
+                                    <option value="3" selected="@(item.Prioridad == 3)">Baja</option>
+                            </select>
+                        </div>
+
+                            <button type="button" class="btn btn-primary w-100" onclick="guardarPrioridad(@item.Id)">
+                                💾 Guardar
+                            </button>
+
+
+                        </form>
+
+                        <form asp-action="Delete" asp-route-id="@item.Id" method="post">
+                            <button type="submit" class="btn btn-danger btn-sm w-100 mt-2">❌ Eliminar</button>
+                        </form>
+
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+}
+@section Scripts {
+    <script>
+        function guardarPrioridad(id) {
+            const nuevaPrioridad = document.getElementById("prioridad-" + id).value;
+
+            fetch('/Watchlist/Edit', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json'
+                },
+                body: JSON.stringify({
+                    id: id,
+                    prioridad: parseInt(nuevaPrioridad)
+                })
+            })
+
+                .then(response => {
+                    if (response.ok) {
+                        alert("Prioridad actualizada ✅");
+                    } else {
+                        alert("Error al actualizar ❌");
+                    }
+                });
+        }
+    </script>
+}
+
+
+

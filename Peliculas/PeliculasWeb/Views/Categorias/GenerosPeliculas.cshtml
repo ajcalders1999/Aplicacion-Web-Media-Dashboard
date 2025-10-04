@@ -1,0 +1,17 @@
+﻿@model List<PeliculasWeb.Models.GeneroViewModel>
+
+@{
+    ViewData["Title"] = "Géneros de Películas";
+}
+
+<h2>Géneros de Películas</h2>
+
+<ul class="list-group mt-4">
+    @foreach (var genero in Model)
+    {
+        <li class="list-group-item d-flex justify-content-between align-items-center">
+            @genero.Nombre
+            <a href="/Peliculas/Index?idGenero=@genero.Id" class="btn btn-sm btn-primary">Ver Películas</a>
+        </li>
+    }
+</ul>
